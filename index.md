@@ -1,17 +1,19 @@
 _This is my blog. I'll post about random developer stuff. Here is my GitHub profile: [https://github.com/glae](https://github.com/glae)._
 
-<!-- 
-future topics:
+<!-- future topics:
+_________________________________
+
 - everyhting As code... 
 - Open by défaut
-- 
+- et tu abordes le sujet de la place des femmes dans l'IT
+
 -->
 
 <!-- template:
+_________________________________
 
 ## Title... :emoji:
 ###### Published on 2019-xx-xx.
-
 Text
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-xx-xx%20post)</strong></small><br><br>
 
