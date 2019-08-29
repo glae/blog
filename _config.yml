@@ -1,20 +1,3 @@
 title: glae's random dev thoughts
-
-colors:
-- '#FF5E3A, #FF2A68, #FFAE9B'
-- '#FF9500, #FF5E3A, #FFBF65'
-- '#FFDB4C, #FFCD02, #FFE064'
-- '#87FC70, #0BD318, #9CFF89'
-- '#52EDC7, #5AC8FB, #9BFFE6'
-- '#1AD6FD, #1D62F0, #9FEEFF'
-- '#C644FC, #5856D6, #E9B5FF'
-- '#EF4DB6, #C643FC, #FFB2E4'
-- '#5AD427, #A4E786, #B6FF95'
-- '#C86EDF, #E4B7F0, #F3C4FF'
-- '#FB2B69, #FF5B37, #FFABC4'
-- '#1D77EF, #81F3FD, #B0F9FF'
-- '#55EFCB, #5BCAFF, #9AFFE7'
-
-
 plugins:
   - jemoji
