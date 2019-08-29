@@ -8,6 +8,7 @@ future topics:
 -->
 
 ## Tech skills: necessary but not sufficient :no_mouth:
+
 ###### Published on [2019-08-29](https://xkcd.com/1179/).
 
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
