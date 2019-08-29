@@ -1,3 +1,12 @@
+This is my blog. I'll post about random developer stuff. 
+
+
+<!-- 
+# everyhting As code... 
+
+
+-->
+
 # :book: Tech skills: necessary but not sufficient
 ###### Published on [2019-08-29](https://xkcd.com/1179/).
 
