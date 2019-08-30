@@ -1,15 +1,5 @@
 _This is my blog :frog:. I'll post about random developer stuff. Here is my GitHub profile: [https://github.com/glae](https://github.com/glae)._
 
-<!-- future topics:
-_________________________________
-
-- everyhting As code... 
-- Open by défaut
-- et tu abordes le sujet de la place des femmes dans l'IT
-
--->
-
-
 <!-- template:
 _________________________________
 
