@@ -6,8 +6,6 @@ _________________________________
 ## Title... :emoji:
 ###### Published on 2019-xx-xx.
 
-<small>_This is part 1/21 of a challenge: a blog post everything working day._</small>
-
 Text
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-xx-xx%20post&assignee=glae)</strong></small><br><br>
@@ -17,8 +15,6 @@ Text
 
 ## Tech skills: necessary but not sufficient :no_mouth:
 ###### Published on [2019-08-29](https://xkcd.com/1179/).
-
-<small>_This is part 1/21 of a challenge: a blog post everything working day._</small>
 
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 
