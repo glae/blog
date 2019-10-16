@@ -126,7 +126,7 @@ renders as:
 
 ### Excel, Pages, Word, PowerPoint, LibreOffice: really, why not?
 
-Spend time setting up the style and its consistency, using bad proprietary version system disturb me from what is important : **producing and maintaining the content**.
+Spend time setting up the style and its consistency, using unfriendly slow proprietary version system disturb me from what is important : **producing and maintaining content**.
 
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-16%20post&assignee=glae)</strong></small><br><br>
