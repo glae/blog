@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 _This is my blog :frog:. I'll post about random developer stuff. Here is my GitHub profile: [https://github.com/glae](https://github.com/glae)._
 
 <!-- template:
