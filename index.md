@@ -71,18 +71,19 @@ I also tried to use LaTeX with its presentation mode, [Beamer](https://github.co
 ```latex
 \begin{frame}
 \frametitle{Use-cases and tasks}
+
 \begin{block}{A task}
 \begin{itemize}
   \item is an entity of an use-case
-  \item encapsulates an object with \texttt{in} and \texttt{out} \emph{ports} to
-  communicate
+  \item encapsulates an object with \texttt{in} and \texttt{out} \emph{ports} to communicate
   \item has some temporal attributes:
   \begin{itemize}
     \item static ones: MAXTC, MINTC
     \item context-dependant ones: release time, deadline
- \end{itemize}
+  \end{itemize}
 \end{itemize}
 \end{block}
+
 \end{frame}
 ```
 And the rendered presentation:
