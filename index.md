@@ -48,17 +48,22 @@ I immediately felt in love with it (well, until I had to include figures in my d
 	\begin{itemize}
 		\item[-] an algorithm for allocating the resources \emph{(scheduling mechanism)}
 		\item[-] an algorithm for ordering access to resources \emph{(scheduling policy)}
-		\item[-] a means of predicting the worst-case behavior of the system when the policy and mechanism are applied \emph{(schedulability analysis)}
+		\item[-] a means of predicting the worst-case behavior of the system when the 
+        policy and mechanism are applied \emph{(schedulability analysis)}
 	\end{itemize}
 
 \section{Assessment}
 
 \subsection{Scheduling mechanism}
 
-We will use the Fixed Priority Scheduling (FPS) mechanism in a preemptive scheme for this purpose, a common way to schedule real-time systems. A static-priority algorithm assigns all priorities at design time, and those priorities remain constants for the lifetime of the task : we are in this case~\cite{LiuLay73}. 
+We will use the Fixed Priority Scheduling (FPS) mechanism in a preemptive scheme for 
+this purpose, a common way to schedule real-time systems. A static-priority algorithm 
+assigns all priorities at design time, and those priorities remain constants for 
+the lifetime of the task : we are in this case~\cite{LiuLay73}. 
 ```
 
 And the rendering:
+<br>
 ![alt text](2019-10-16-a.png)
 
 
