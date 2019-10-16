@@ -20,7 +20,7 @@ I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII)
 
 ### Why?
 
-There are many reasons why, but here's for me the three main ones:
+There are many reasons why, but here is for me the three main ones:
 1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text prevent people trying to do so (ASCII art have limits)
 1. simplicity: splitting the form and substance (or the style and content) keeps things simple ([KISS](https://en.wikipedia.org/wiki/KISS_principle))
 1. money: ASCII/plain text is just free! 
@@ -29,7 +29,7 @@ Here is my personal experience with all of these.
 
 #### 1999 - Plain text
 
-I started writing my diary in 1999. It was all plain text ending with `.txt`. It's still readable: 
+I started writing my diary in 1999. It was all plain text ending with `.txt`. It is still readable: 
 ```
 Let's have a fun in my castle
 To see the sunshine people
@@ -90,29 +90,43 @@ And the rendered presentation:
 <br>
 ![rendered latex](2019-10-16-b.png "rendered latex")
 
-Nowadays HTML alternatives like [Reveal.js](https://github.com/hakimel/reveal.js), which can include Markdown format seem to be a good solution.
-
+Nowadays HTML alternatives like [Reveal.js](https://github.com/hakimel/reveal.js), which can include Markdown format also seem to be good solutions.
 
 #### 2008 - Wikis
 
+In my first jobs and still today, as a developer I am using wikis every day. As Wikipedia, they are useful for various situations: machine setup guide, welcome instructions, user stories collection, etc. 
+
+Each wiki engine (Trac, MediaWiki, XWiki, Confluence) comes with [some markup templating syntax](https://en.wikipedia.org/wiki/Lightweight_markup_language) (Creole, MediaWiki markup, Textile...). I remember some colleagues wanting to configure a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editor... to get a "Word editor feeling" in their web browser, and to get stuck on the same content/style mix issues as well. 
+
 #### 2011 - Markdown + AsciiDoc
 
-diff (unix tools) on the french law !
-diffs plain text
-versionning is nice
+I can be found plain-text documentation files today everywhere, particularly in the basecode itself, to try to keep documentation close to its code. Markdown variants and AsciiDoc are now very common and are easier to use than LaTeX syntax and targetting primarly HTML output. 
 
-look at github : every decent has its README.md or README.adoc 
+- every UNIX tools (`diff`, `tail`, `grep`, `git`) works fine with these formats 
+- On GitHub, every decent open source project has its `README.md` or `README.adoc` file 
 
-#### 2013 - Diagrams fantasy
+#### Next steps
 
-plantuml, plain text 
+I am considering using ASCII even for diagrams, for the same reasons above: simplicity, maintenance, openness. Some people are using *"doc as code"* to describe the whole mindset. There are many tools (Mermaid, PlantUML, [Kroki](https://kroki.io/)), with Mermaid for instance:
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+
+renders as: 
+<br>
+![rendered latex](2019-10-16-c.png "rendered latex")
 
 
-### Excel, Pages, Word, PowerPoint, LibreOffice, why not?
+### Excel, Pages, Word, PowerPoint, LibreOffice: really, why not?
 
-Spending time setting up the style disturb me from what's important : **the content**.
-
-
+Spend time setting up the style and its consistency, using bad proprietary version system disturb me from what is important : **producing and maintaining the content**.
 
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-16%20post&assignee=glae)</strong></small><br><br>
