@@ -102,7 +102,7 @@ Each wiki engine (Trac, MediaWiki, XWiki, Confluence) comes with [some markup te
 
 Plain-text documentation files can today be found everywhere, particularly in the basecode itself, to try to keep documentation close to its code. Markdown variants and AsciiDoc are now very common and are easier to use than LaTeX syntax and targetting primarly HTML output. 
 
-- every UNIX tools (`diff`, `tail`, `grep`, `git`) works fine with these formats 
+- every UNIX tools (`diff`, `tail`, `grep`, `git`) works fine with these formats (you can follow [french law evolutions](https://github.com/lexlib) on GitHub!)
 - On GitHub, every decent open source project has its `README.md` or `README.adoc` file 
 
 #### Next steps
