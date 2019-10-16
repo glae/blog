@@ -43,8 +43,8 @@ I immediately felt in love with it (well, until I had to include figures in my d
 ```latex
 \chapter{Schedulability}
 
-	The development of an embedded real-time application supposes that it needs to be scheduled. First, we know that
-	scheduling is based on three components:
+	The development of an embedded real-time application supposes that it needs to be 
+    scheduled. First, we know that scheduling is based on three components:
 	\begin{itemize}
 		\item[-] an algorithm for allocating the resources \emph{(scheduling mechanism)}
 		\item[-] an algorithm for ordering access to resources \emph{(scheduling policy)}
