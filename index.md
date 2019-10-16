@@ -128,6 +128,8 @@ renders as:
 
 Spend time setting up the style and its consistency, using unfriendly slow proprietary version system disturb me from what is important : **producing and maintaining content**.
 
+I, however, admit tools like Google docs or Sharepoint can be nice to quickly collaborate with non-developers.
+
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-16%20post&assignee=glae)</strong></small><br><br>
 
