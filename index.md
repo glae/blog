@@ -3,7 +3,8 @@ _This is my blog :frog:. I'll post about random developer stuff. Here is my GitH
 <!-- template:
 _________________________________
 
-# Title... :emoji:
+// two ## are needed for permalink
+## Title... :emoji:
 ###### Published on 2019-xx-xx.
 
 Text
@@ -17,7 +18,7 @@ Text
 
 I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII) or plain text as a primary format for its written work. 
 
-## Why?
+### Why?
 
 There are many reasons why, but here's for me the three main ones:
 1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text prevent people trying to do so (ASCII art have limits)
@@ -26,7 +27,7 @@ There are many reasons why, but here's for me the three main ones:
 
 Here is my personal experience with all of these. 
 
-### 1999 - Plain text
+#### 1999 - Plain text
 
 I started writing my diary in 1999. It was all plain text ending with `.txt`. It's still readable: 
 ```
@@ -35,7 +36,7 @@ To see the sunshine people
 ```
 There was an obscure 30 KB size limit on my computer at the time.  
 
-### 2006 - LaTeX + Beamer
+#### 2006 - LaTeX + Beamer
 
 During my computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduced to me this weird-case-titled-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation is under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
 
@@ -70,20 +71,20 @@ And the rendered output PDF:
 alternative Reveal.js à Beamer
 
 
-### 2008 - Wikis
+#### 2008 - Wikis
 
-### 2011 - Markdown + AsciiDoc
+#### 2011 - Markdown + AsciiDoc
 
 diff (unix tools) on the french law !
 look at github : every decent has its README.md or README.adoc 
 
-### 2013 - Diagrams fantasy
+#### 2013 - Diagrams fantasy
 
 plantuml, plain text 
 
 
 
-## Excel, Pages, Word, PowerPoint, LibreOffice, why not?
+### Excel, Pages, Word, PowerPoint, LibreOffice, why not?
 
  disturb you from what's important 
 
@@ -95,7 +96,7 @@ diffs
 
 
 
-# Tech skills: necessary but not sufficient :no_mouth:
+## Tech skills: necessary but not sufficient :no_mouth:
 ###### Published on [2019-08-29](https://xkcd.com/1179/).
 
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
