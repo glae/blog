@@ -94,7 +94,7 @@ Nowadays HTML alternatives like [Reveal.js](https://github.com/hakimel/reveal.js
 
 #### 2008 - Wikis
 
-In my first jobs and still today, as a developer I am using wikis every day. As Wikipedia, they are useful for various situations: machine setup guide, welcome instructions, user stories collection, etc. 
+In my first jobs and still today, as a developer I am using wikis every day. Like Wikipedia, they are useful for various situations: machine setup guide, welcome instructions, user stories collection, etc. 
 
 Each wiki engine (Trac, MediaWiki, XWiki, Confluence) comes with [some markup templating syntax](https://en.wikipedia.org/wiki/Lightweight_markup_language) (Creole, MediaWiki markup, Textile...). I remember some colleagues wanting to configure a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) editor... to get a "Word editor feeling" in their web browser, and to get stuck on the same content/style mix issues as well. 
 
