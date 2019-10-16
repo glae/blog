@@ -12,7 +12,7 @@ Text
 
 -->
 
-# My dream ASCII company :page_with_curl:
+## My dream ASCII company :page_with_curl:
 ###### Published on 2019-10-16.
 
 I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII) or plain text as a primary format for its written work. 
@@ -20,24 +20,24 @@ I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII)
 ## Why?
 
 There are many reasons why, but here's for me the three main ones:
-1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text avoid trying to do so
+1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text prevent people trying to do so (ASCII art have limits)
 1. simplicity: splitting the form and substance (or the style and content) keeps things simpler (e.g. [KISS](https://en.wikipedia.org/wiki/KISS_principle))
 1. money: ASCII is just free! 
 
 Here is my personal experience with all of these. 
 
-### 1999 - Fucking plain text
+### 1999 - Plain text
 
 I started writing my diary in 1999. It was all plain text ending with `.txt`. It's still readable: 
 ```
 Let's have a fun in my castle
 To see the sunshine people
 ```
-On my computer at the time, there was a weird 30KB max size limit.  
+There was an obscure 30 KB size limit on my computer at the time.  
 
 ### 2006 - LaTeX + Beamer
 
-In computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduce me to this fucked-up-case-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation is under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
+During my computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduced to me this weird-case-titled-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation is under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
 
 I immediately felt in love with it... Well, until I had to include figures and tables in my document, here is a sample content: 
 ```latex
@@ -53,7 +53,6 @@ I immediately felt in love with it... Well, until I had to include figures and t
 	\end{itemize}
 
 \section{Assessment}
-
 \subsection{Scheduling mechanism}
 
 We will use the Fixed Priority Scheduling (FPS) mechanism in a preemptive scheme for 
@@ -61,6 +60,7 @@ this purpose, a common way to schedule real-time systems. A static-priority algo
 assigns all priorities at design time, and those priorities remain constants for 
 the lifetime of the task : we are in this case~\cite{LiuLay73}. 
 ```
+Any text editor can be used (vi, Emacs, Notepad, Atom, Visual Studio Code...) or there are also [many dedicated editors](https://en.wikipedia.org/wiki/Comparison_of_TeX_editors).  
 
 And the rendered output PDF:
 <br>
@@ -83,7 +83,9 @@ plantuml, plain text
 
 
 
-## Excel, Word, Powerpoint, LibreOffice disturb you from what's important 
+## Excel, Pages, Word, PowerPoint, LibreOffice, why not?
+
+ disturb you from what's important 
 
 diffs 
 
