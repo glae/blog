@@ -67,7 +67,7 @@ And the rendered output PDF:
 <br>
 ![rendered latex](2019-10-16-a.png "rendered latex")
 
-I also tried to use LaTeX with its presentation mode, [Beamer](), and created clean PDF presentations with source like: 
+I also tried to use LaTeX with its presentation mode, [Beamer](https://github.com/josephwright/beamer), and created clean PDF presentations with source like: 
 ```latex
 \begin{frame}
 \frametitle{Use-cases and tasks}
