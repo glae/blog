@@ -22,8 +22,8 @@ I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII)
 
 There are many reasons why, but here's for me the three main ones:
 1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text prevent people trying to do so (ASCII art have limits)
-1. simplicity: splitting the form and substance (or the style and content) keeps things simpler (e.g. [KISS](https://en.wikipedia.org/wiki/KISS_principle))
-1. money: ASCII is just free! 
+1. simplicity: splitting the form and substance (or the style and content) keeps things simple ([KISS](https://en.wikipedia.org/wiki/KISS_principle))
+1. money: ASCII/plain text is just free! 
 
 Here is my personal experience with all of these. 
 
@@ -67,8 +67,29 @@ And the rendered output PDF:
 <br>
 ![rendered latex](2019-10-16-a.png "rendered latex")
 
+I also tried to use LaTeX with its presentation mode, [Beamer](), and created clean PDF presentations with source like: 
+```latex
+\begin{frame}
+\frametitle{Use-cases and tasks}
+\begin{block}{A task}
+\begin{itemize}
+  \item is an entity of an use-case
+  \item encapsulates an object with \texttt{in} and \texttt{out} \emph{ports} to
+  communicate
+  \item has some temporal attributes:
+  \begin{itemize}
+    \item static ones: MAXTC, MINTC
+    \item context-dependant ones: release time, deadline
+ \end{itemize}
+\end{itemize}
+\end{block}
+\end{frame}
+```
+And the rendered presentation:
+<br>
+![rendered latex](2019-10-16-b.png "rendered latex")
 
-alternative Reveal.js à Beamer
+Nowadays HTML alternatives like [Reveal.js](https://github.com/hakimel/reveal.js), which can include Markdown format seem to be a good solution.
 
 
 #### 2008 - Wikis
@@ -76,6 +97,9 @@ alternative Reveal.js à Beamer
 #### 2011 - Markdown + AsciiDoc
 
 diff (unix tools) on the french law !
+diffs plain text
+versionning is nice
+
 look at github : every decent has its README.md or README.adoc 
 
 #### 2013 - Diagrams fantasy
@@ -83,12 +107,10 @@ look at github : every decent has its README.md or README.adoc
 plantuml, plain text 
 
 
-
 ### Excel, Pages, Word, PowerPoint, LibreOffice, why not?
 
- disturb you from what's important 
+Spending time setting up the style disturb me from what's important : **the content**.
 
-diffs 
 
 
 
