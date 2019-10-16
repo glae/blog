@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 _This is my blog :frog:. I'll post about random developer stuff. Here is my GitHub profile: [https://github.com/glae](https://github.com/glae)._
 
 <!-- template:
@@ -19,7 +17,7 @@ Text
 
 I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII) or plain text as a primary format for its written work. 
 
-## Why ?
+## Why?
 
 There are many reasons why, but here's for me the three main ones:
 1. beauty: people working in IT mostly **do** suck at making pretty content or documents, so plain text avoid trying to do so
@@ -37,11 +35,11 @@ To see the sunshine people
 ```
 On my computer at the time, there was a weird 30KB max size limit.  
 
-### 2006 - Latex + Beamer
+### 2006 - LaTeX + Beamer
 
-In computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduce me to this fucked-up-case-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
+In computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduce me to this fucked-up-case-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation is under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
 
-I immediately felt in love with it (well, until I had to include figures in my document), here is an example: 
+I immediately felt in love with it... Well, until I had to include figures and tables in my document, here is a sample content: 
 ```latex
 \chapter{Schedulability}
 
@@ -64,9 +62,9 @@ assigns all priorities at design time, and those priorities remain constants for
 the lifetime of the task : we are in this case~\cite{LiuLay73}. 
 ```
 
-And the rendering:
+And the rendered output PDF:
 <br>
-![alt text](2019-10-16-a.png)
+![rendered latex](2019-10-16-a.png "rendered latex")
 
 
 alternative Reveal.js à Beamer
