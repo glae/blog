@@ -19,7 +19,7 @@ Text
 
 ### Dev = coding right?
 
-I have mixed feelings about programming languages. Non-IT or non-developer people tend towards thinking a dev job is **all about programming**. And that programming language `X` is better than `Y` for `R1` or `R2` reason (or `W` or `Z` framework). In my own experience, they are mostly wrong. My job includes, in a non-exhaustive fashion, several different actions: 
+I have mixed feelings about programming languages. Non-IT or non-developer people tend towards thinking a dev job is **all about programming**. And that programming language `X` is better than `Y` for `R1` or `R2` reason (or `FA` or `FB` framework). In my own experience, they are mostly wrong. My job includes, in a non-exhaustive fashion, several different actions: 
 - to communicate: about everything (feature, bug, infrastructure, UI, UX, design) with everyone (product owner, manager, dev, architect, designer, ops) with every tool (real contact, phone, chat, email, document) 
 - to design: a system, an architecture, an API, some interactions (usually it requires some people standing in front of a whiteboard)
 - to implement: development (in `X` or `Y` language), testing, deployment, configuration, review
@@ -37,7 +37,7 @@ For those who say:
 
 I would moderate this previous statement: they communicate, design, implement and bureaucrate.
 
-We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages timeline usage:
+We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much. 
 
 ________Timeline 
 
