@@ -17,7 +17,7 @@ Text
 ## Title... :emoji:
 ###### Published on 2019-10-18.
 
-### Dev = coding right?
+### Dev = coding, right?
 
 I have mixed feelings about programming languages. Non-IT or non-developer people tend towards thinking a dev job is **all about programming**. And that programming language `X` is better than `Y` for `R1` or `R2` reason (or `FA` or `FB` framework). In my own experience, they are mostly wrong. My job includes, in a non-exhaustive fashion, several different actions: 
 - to communicate: about everything (feature, bug, infrastructure, UI, UX, design) with everyone (product owner, manager, dev, architect, designer, ops) with every tool (real contact, phone, chat, email, document) 
