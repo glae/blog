@@ -29,7 +29,7 @@ Here is my personal experience with all of these.
 
 #### 1999 - Plain text
 
-I started writing my diary in 1999. It was all plain text ending with `.txt`. It is still readable: 
+I started writing my diary in 1999. It was all plain text files ending with `.txt`. It is still readable: 
 ```
 Let's have a fun in my castle
 To see the sunshine people
@@ -40,7 +40,7 @@ There was an obscure 30 KB size limit on my computer at the time.
 
 During my computer science degree, I had to write another thesis. I was used to use Word or OpenOffice for this kind of stuff, but a classmate introduced me to this weird-case-titled-document-system called [LaTeX](https://en.wikipedia.org/wiki/LaTeX) (pronunciation is under debate as in GIF or [MySQL](https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html)).
 
-I immediately felt in love with it... Well, until I had to include figures and tables in my document, here is a sample content: 
+I immediately felt in love with it... Well, until I had to include figures and tables in my document. Here is a sample content: 
 ```latex
 \chapter{Schedulability}
 
@@ -121,7 +121,7 @@ sequenceDiagram
 
 renders as: 
 <br>
-![rendered latex](2019-10-16-c.png "rendered latex")
+![rendered mermaid](2019-10-16-c.png "rendered mermaid")
 
 
 ### Excel, Pages, Word, PowerPoint, LibreOffice: really, why not?
