@@ -37,7 +37,7 @@ For those who say:
 
 I would moderate this previous statement: they communicate, design, implement and bureaucrate.
 
-We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much. 
+We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
 
 ________Timeline 
 
