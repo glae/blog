@@ -40,7 +40,32 @@ I would moderate this previous statement: they communicate, design, implement an
 
 We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages (I exclude declarative ones) timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
 
-________Timeline en SVG?
+gantt 
+title Programming languages I can or could write
+dateFormat  YYYY-MM
+
+section Fluent
+JavaScript      :active, 2002-01,2019-01
+Java               :active, 2002-01,2019-09
+Bash               :active, 2003-01,2019-09
+
+section Rusty
+    PHP                :done, 2003-01, 2004-01
+    PHP                :done, 2018-11, 2018-12
+    C                    :done, 2004-01,2006-01
+
+    Visual Basic     :done, 2005-05,2005-08
+    Python            :active, 2006-05,2006-08
+    C♯                  :active, 2006-05,2006-08
+    Ada                :active, 2006-05,2006-08
+    Occam            :active, 2006-05,2006-08
+    C++                :active, 2006-05,2006-08
+    Objective C  :active, 2006-05,2006-08
+    Swift  :active, 2006-05,2006-08
+    ActionScript: 
+Scala  :active, 2006-05,2006-08
+TypeScript  :active, 2006-05,2006-08
+   
 
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-18%20post&assignee=glae)</strong></small><br><br>
