@@ -1,4 +1,4 @@
-_This is my blog :frog:. I'll post about random developer stuff._
+_This is my blog. I'll post about random developer stuff._
 
 <!-- template:
 _________________________________
