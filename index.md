@@ -154,7 +154,7 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
-renders as PNG (but it could be SVG (which is plain text!)): 
+renders as PNG (but it could be SVG (which is... well, plain text!): 
 <br>
 ![rendered mermaid](2019-10-16-c.png "rendered mermaid")
 
