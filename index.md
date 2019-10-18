@@ -161,7 +161,7 @@ renders as:
 
 ### Excel, Pages, Word, PowerPoint, LibreOffice: really, why not?
 
-Spend time setting up the style and its consistency, using unfriendly slow proprietary version system disturb me from what is important : **producing and maintaining content**.
+Spend time setting up the style and its consistency, using unfriendly slow proprietary version system disturb me from what is important: **producing and maintaining content**.
 
 I, however, admit tools like Google docs or Sharepoint can be nice to quickly collaborate with non-developers, but still lack plain-text straightforward simplicity.
 
