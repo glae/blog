@@ -13,11 +13,12 @@ Text
 
 -->
 
+
 <!--
-## Title... :emoji:
+## To develop = to code, right? :label:
 ###### Published on 2019-10-18.
 
-### Dev = coding, right?
+### "You code all day long"
 
 I have mixed feelings about programming languages. Non-IT or non-developer people tend towards thinking a dev job is **all about programming**. And that programming language `X` is better than `Y` for `R1` or `R2` reason (or `FA` or `FB` framework). In my own experience, they are mostly wrong. My job includes, in a non-exhaustive fashion, several different actions: 
 - to communicate: about everything (feature, bug, infrastructure, UI, UX, design) with everyone (product owner, manager, dev, architect, designer, ops) with every tool (real contact, phone, chat, email, document) 
@@ -28,7 +29,7 @@ I have mixed feelings about programming languages. Non-IT or non-developer peopl
 ### From a wider sight
 
 I see the same conflation in the french public education, our (so-called) specialists say:
-> kids should learn coding/how to program.
+> Kids should learn at school coding/how to program.
 
 I am confused. I think kids should really see the whole picture and grow a digital culture, by learning and understanding our digital world in its countless fields: privacy, cloud, GAFAM, banking, internet, networks, social media...
 
@@ -37,9 +38,9 @@ For those who say:
 
 I would moderate this previous statement: they communicate, design, implement and bureaucrate.
 
-We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
+We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages (I exclude declarative ones) timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
 
-________Timeline 
+________Timeline en SVG?
 
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-18%20post&assignee=glae)</strong></small><br><br>
