@@ -87,6 +87,7 @@ Swift         :done, 2016-01,2017-12
 
 ![timeline](2019-10-20-timeline.svg "timeline")
 
+Written with [Mermaid](https://mermaidjs.github.io/#/).
 
 <small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-20%20post&assignee=glae)</strong></small><br><br>
 
