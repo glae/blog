@@ -14,9 +14,9 @@ Text
 -->
 
 
-<!--
+
 ## To develop = to code, right? :label:
-###### Published on 2019-10-18.
+###### Published on 2019-10-20.
 
 ### "You code all day long"
 
@@ -40,37 +40,57 @@ I would moderate this previous statement: they communicate, design, implement an
 
 We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages (I exclude declarative ones) timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
 
+<!--
 gantt 
 title Programming languages I can or could write
 dateFormat  YYYY-MM
 
-section Fluent
-JavaScript      :active, 2002-01,2019-01
-Java               :active, 2002-01,2019-09
-Bash               :active, 2003-01,2019-09
+section Current
+JavaScript    :active, 2002-12,2003-06
+JavaScript    :active, 2009-01,2019-09
 
-section Rusty
-    PHP                :done, 2003-01, 2004-01
-    PHP                :done, 2018-11, 2018-12
-    C                    :done, 2004-01,2006-01
+Java          :active1, 2003-01,2019-09
 
-    Visual Basic     :done, 2005-05,2005-08
-    Python            :active, 2006-05,2006-08
-    C♯                  :active, 2006-05,2006-08
-    Ada                :active, 2006-05,2006-08
-    Occam            :active, 2006-05,2006-08
-    C++                :active, 2006-05,2006-08
-    Objective C  :active, 2006-05,2006-08
-    Swift  :active, 2006-05,2006-08
-    ActionScript: 
-Scala  :active, 2006-05,2006-08
-TypeScript  :active, 2006-05,2006-08
-   
+Bash          :active, 2004-10,2019-09
+
+TypeScript    :active1, 2018-05,2019-09
 
 
-<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-18%20post&assignee=glae)</strong></small><br><br>
+section Rusty-or-rookie
+PHP           :done, 2003-03, 2004-06
+PHP           :done, 2018-11, 2018-12
 
+C             :done, 2004-10,2006-03
+
+Visual Basic  :done, 2005-04, 2005-06
+
+Occam         :done, 2005-10,2005-11
+
+C++           :done, 2005-10,2006-03
+
+C♯            :done, 2005-10,2006-03
+
+Ada           :done, 2006-02,2006-03
+
+Python        :done, 2006-04,2006-06
+Python        :done, 2017-05,2017-06
+Python        :done, 2019-03,2019-05
+
+ActionScript  :done, 2009-07,2010-10
+
+Scala         :done, 2014-12,2019-07
+
+Objective C   :done, 2015-07,2017-12
+
+Swift         :done, 2016-01,2017-12
 -->
+
+![timeline](2019-10-20-timeline.svg "timeline")
+
+
+<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-20%20post&assignee=glae)</strong></small><br><br>
+
+
 
 
 ## My dream ASCII company :page_with_curl:

@@ -1,0 +1,494 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="mermaid-1571598378215" width="100%" height="100%" viewBox="0 0 1256 580"><style>
+
+
+
+#mermaid-1571598378215 .label {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  color: #333; }
+
+#mermaid-1571598378215 .label text {
+  fill: #333; }
+
+#mermaid-1571598378215 .node rect,
+#mermaid-1571598378215 .node circle,
+#mermaid-1571598378215 .node ellipse,
+#mermaid-1571598378215 .node polygon {
+  fill: #BDD5EA;
+  stroke: purple;
+  stroke-width: 1px; }
+
+#mermaid-1571598378215 .node .label {
+  text-align: center; }
+
+#mermaid-1571598378215 .node.clickable {
+  cursor: pointer; }
+
+#mermaid-1571598378215 .arrowheadPath {
+  fill: lightgrey; }
+
+#mermaid-1571598378215 .edgePath .path {
+  stroke: lightgrey;
+  stroke-width: 1.5px; }
+
+#mermaid-1571598378215 .edgeLabel {
+  background-color: #e8e8e8;
+  text-align: center; }
+
+#mermaid-1571598378215 .cluster rect {
+  fill: #6D6D65;
+  stroke: rgba(255, 255, 255, 0.25);
+  stroke-width: 1px; }
+
+#mermaid-1571598378215 .cluster text {
+  fill: #F9FFFE; }
+
+#mermaid-1571598378215 div.mermaidTooltip {
+  position: absolute;
+  text-align: center;
+  max-width: 200px;
+  padding: 2px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 12px;
+  background: #6D6D65;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 2px;
+  pointer-events: none;
+  z-index: 100; }
+
+#mermaid-1571598378215 .actor {
+  stroke: #81B1DB;
+  fill: #BDD5EA; }
+
+#mermaid-1571598378215 text.actor {
+  fill: black;
+  stroke: none; }
+
+#mermaid-1571598378215 .actor-line {
+  stroke: lightgrey; }
+
+#mermaid-1571598378215 .messageLine0 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: lightgrey; }
+
+#mermaid-1571598378215 .messageLine1 {
+  stroke-width: 1.5;
+  stroke-dasharray: '2 2';
+  stroke: lightgrey; }
+
+#mermaid-1571598378215 #arrowhead {
+  fill: lightgrey; }
+
+#mermaid-1571598378215 .sequenceNumber {
+  fill: white; }
+
+#mermaid-1571598378215 #sequencenumber {
+  fill: lightgrey; }
+
+#mermaid-1571598378215 #crosshead path {
+  fill: lightgrey !important;
+  stroke: lightgrey !important; }
+
+#mermaid-1571598378215 .messageText {
+  fill: lightgrey;
+  stroke: none; }
+
+#mermaid-1571598378215 .labelBox {
+  stroke: #81B1DB;
+  fill: #BDD5EA; }
+
+#mermaid-1571598378215 .labelText {
+  fill: #323D47;
+  stroke: none; }
+
+#mermaid-1571598378215 .loopText {
+  fill: lightgrey;
+  stroke: none; }
+
+#mermaid-1571598378215 .loopLine {
+  stroke-width: 2;
+  stroke-dasharray: '2 2';
+  stroke: #81B1DB; }
+
+#mermaid-1571598378215 .note {
+  stroke: rgba(255, 255, 255, 0.25);
+  fill: #fff5ad; }
+
+#mermaid-1571598378215 .noteText {
+  fill: black;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 14px; }
+
+#mermaid-1571598378215 .activation0 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1571598378215 .activation1 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+#mermaid-1571598378215 .activation2 {
+  fill: #f4f4f4;
+  stroke: #666; }
+
+
+#mermaid-1571598378215 .mermaid-main-font {
+  font-family: "trebuchet ms", verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .section {
+  stroke: none;
+  opacity: 0.2; }
+
+#mermaid-1571598378215 .section0 {
+  fill: rgba(255, 255, 255, 0.3); }
+
+#mermaid-1571598378215 .section2 {
+  fill: #EAE8B9; }
+
+#mermaid-1571598378215 .section1,
+#mermaid-1571598378215 .section3 {
+  fill: white;
+  opacity: 0.2; }
+
+#mermaid-1571598378215 .sectionTitle0 {
+  fill: #F9FFFE; }
+
+#mermaid-1571598378215 .sectionTitle1 {
+  fill: #F9FFFE; }
+
+#mermaid-1571598378215 .sectionTitle2 {
+  fill: #F9FFFE; }
+
+#mermaid-1571598378215 .sectionTitle3 {
+  fill: #F9FFFE; }
+
+#mermaid-1571598378215 .sectionTitle {
+  text-anchor: start;
+  font-size: 11px;
+  text-height: 14px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+
+#mermaid-1571598378215 .grid .tick {
+  stroke: lightgrey;
+  opacity: 0.3;
+  shape-rendering: crispEdges; }
+#mermaid-1571598378215   .grid .tick text {
+    font-family: 'trebuchet ms', verdana, arial;
+    font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .grid path {
+  stroke-width: 0; }
+
+
+#mermaid-1571598378215 .today {
+  fill: none;
+  stroke: #DB5757;
+  stroke-width: 2px; }
+
+
+
+#mermaid-1571598378215 .task {
+  stroke-width: 2; }
+
+#mermaid-1571598378215 .taskText {
+  text-anchor: middle;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .taskText:not([font-size]) {
+  font-size: 11px; }
+
+#mermaid-1571598378215 .taskTextOutsideRight {
+  fill: #323D47;
+  text-anchor: start;
+  font-size: 11px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .taskTextOutsideLeft {
+  fill: #323D47;
+  text-anchor: end;
+  font-size: 11px; }
+
+
+#mermaid-1571598378215 .task.clickable {
+  cursor: pointer; }
+
+#mermaid-1571598378215 .taskText.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1571598378215 .taskTextOutsideLeft.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+#mermaid-1571598378215 .taskTextOutsideRight.clickable {
+  cursor: pointer;
+  fill: #003163 !important;
+  font-weight: bold; }
+
+
+#mermaid-1571598378215 .taskText0,
+#mermaid-1571598378215 .taskText1,
+#mermaid-1571598378215 .taskText2,
+#mermaid-1571598378215 .taskText3 {
+  fill: #323D47; }
+
+#mermaid-1571598378215 .task0,
+#mermaid-1571598378215 .task1,
+#mermaid-1571598378215 .task2,
+#mermaid-1571598378215 .task3 {
+  fill: #BDD5EA;
+  stroke: rgba(255, 255, 255, 0.5); }
+
+#mermaid-1571598378215 .taskTextOutside0,
+#mermaid-1571598378215 .taskTextOutside2 {
+  fill: lightgrey; }
+
+#mermaid-1571598378215 .taskTextOutside1,
+#mermaid-1571598378215 .taskTextOutside3 {
+  fill: lightgrey; }
+
+
+#mermaid-1571598378215 .active0,
+#mermaid-1571598378215 .active1,
+#mermaid-1571598378215 .active2,
+#mermaid-1571598378215 .active3 {
+  fill: #81B1DB;
+  stroke: rgba(255, 255, 255, 0.5); }
+
+#mermaid-1571598378215 .activeText0,
+#mermaid-1571598378215 .activeText1,
+#mermaid-1571598378215 .activeText2,
+#mermaid-1571598378215 .activeText3 {
+  fill: #323D47 !important; }
+
+
+#mermaid-1571598378215 .done0,
+#mermaid-1571598378215 .done1,
+#mermaid-1571598378215 .done2,
+#mermaid-1571598378215 .done3 {
+  stroke: grey;
+  fill: lightgrey;
+  stroke-width: 2; }
+
+#mermaid-1571598378215 .doneText0,
+#mermaid-1571598378215 .doneText1,
+#mermaid-1571598378215 .doneText2,
+#mermaid-1571598378215 .doneText3 {
+  fill: #323D47 !important; }
+
+
+#mermaid-1571598378215 .crit0,
+#mermaid-1571598378215 .crit1,
+#mermaid-1571598378215 .crit2,
+#mermaid-1571598378215 .crit3 {
+  stroke: #E83737;
+  fill: #E83737;
+  stroke-width: 2; }
+
+#mermaid-1571598378215 .activeCrit0,
+#mermaid-1571598378215 .activeCrit1,
+#mermaid-1571598378215 .activeCrit2,
+#mermaid-1571598378215 .activeCrit3 {
+  stroke: #E83737;
+  fill: #81B1DB;
+  stroke-width: 2; }
+
+#mermaid-1571598378215 .doneCrit0,
+#mermaid-1571598378215 .doneCrit1,
+#mermaid-1571598378215 .doneCrit2,
+#mermaid-1571598378215 .doneCrit3 {
+  stroke: #E83737;
+  fill: lightgrey;
+  stroke-width: 2;
+  cursor: pointer;
+  shape-rendering: crispEdges; }
+
+#mermaid-1571598378215 .milestone {
+  transform: rotate(45deg) scale(0.8, 0.8); }
+
+#mermaid-1571598378215 .milestoneText {
+  font-style: italic; }
+
+#mermaid-1571598378215 .doneCritText0,
+#mermaid-1571598378215 .doneCritText1,
+#mermaid-1571598378215 .doneCritText2,
+#mermaid-1571598378215 .doneCritText3 {
+  fill: #323D47 !important; }
+
+#mermaid-1571598378215 .activeCritText0,
+#mermaid-1571598378215 .activeCritText1,
+#mermaid-1571598378215 .activeCritText2,
+#mermaid-1571598378215 .activeCritText3 {
+  fill: #323D47 !important; }
+
+#mermaid-1571598378215 .titleText {
+  text-anchor: middle;
+  font-size: 18px;
+  fill: #323D47;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 g.classGroup text {
+  fill: purple;
+  stroke: none;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family);
+  font-size: 10px; }
+#mermaid-1571598378215   g.classGroup text .title {
+    font-weight: bolder; }
+
+#mermaid-1571598378215 g.classGroup rect {
+  fill: #BDD5EA;
+  stroke: purple; }
+
+#mermaid-1571598378215 g.classGroup line {
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 .classLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #BDD5EA;
+  opacity: 0.5; }
+
+#mermaid-1571598378215 .classLabel .label {
+  fill: purple;
+  font-size: 10px; }
+
+#mermaid-1571598378215 .relation {
+  stroke: purple;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1571598378215 #compositionStart {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #compositionEnd {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #aggregationStart {
+  fill: #BDD5EA;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #aggregationEnd {
+  fill: #BDD5EA;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #dependencyStart {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #dependencyEnd {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #extensionStart {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 #extensionEnd {
+  fill: purple;
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 .commit-id,
+#mermaid-1571598378215 .commit-msg,
+#mermaid-1571598378215 .branch-label {
+  fill: lightgrey;
+  color: lightgrey;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .pieTitleText {
+  text-anchor: middle;
+  font-size: 25px;
+  fill: #323D47;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 .slice {
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 g.stateGroup text {
+  fill: purple;
+  stroke: none;
+  font-size: 10px;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+#mermaid-1571598378215 g.stateGroup text {
+  fill: purple;
+  stroke: none;
+  font-size: 10px; }
+
+#mermaid-1571598378215 g.stateGroup .state-title {
+  font-weight: bolder;
+  fill: black; }
+
+#mermaid-1571598378215 g.stateGroup rect {
+  fill: #BDD5EA;
+  stroke: purple; }
+
+#mermaid-1571598378215 g.stateGroup line {
+  stroke: purple;
+  stroke-width: 1; }
+
+#mermaid-1571598378215 .transition {
+  stroke: purple;
+  stroke-width: 1;
+  fill: none; }
+
+#mermaid-1571598378215 .stateGroup .composit {
+  fill: white;
+  border-bottom: 1px; }
+
+#mermaid-1571598378215 .state-note {
+  stroke: rgba(255, 255, 255, 0.25);
+  fill: #fff5ad; }
+#mermaid-1571598378215   .state-note text {
+    fill: black;
+    stroke: none;
+    font-size: 10px; }
+
+#mermaid-1571598378215 .stateLabel .box {
+  stroke: none;
+  stroke-width: 0;
+  fill: #BDD5EA;
+  opacity: 0.5; }
+
+#mermaid-1571598378215 .stateLabel text {
+  fill: black;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'trebuchet ms', verdana, arial;
+  font-family: var(--mermaid-font-family); }
+
+:root {
+  --mermaid-font-family: '"trebuchet ms", verdana, arial';
+  --mermaid-font-family: "Comic Sans MS", "Comic Sans", cursive; }
+
+:root { --mermaid-font-family: "trebuchet ms", verdana, arial;}</style><style>#mermaid-1571598378215 {
+    color: rgba(0, 0, 0, 0.65);
+    font: ;
+  }</style><g/><g class="grid" transform="translate(75, 530)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle"><path class="domain" stroke="currentColor" d="M0.5,-495V0.5H1106.5V-495"/><g class="tick" opacity="1" transform="translate(72.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2004-01-01</text></g><g class="tick" opacity="1" transform="translate(204.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2006-01-01</text></g><g class="tick" opacity="1" transform="translate(336.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2008-01-01</text></g><g class="tick" opacity="1" transform="translate(468.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2010-01-01</text></g><g class="tick" opacity="1" transform="translate(600.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2012-01-01</text></g><g class="tick" opacity="1" transform="translate(732.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2014-01-01</text></g><g class="tick" opacity="1" transform="translate(864.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2016-01-01</text></g><g class="tick" opacity="1" transform="translate(996.5,0)"><line stroke="currentColor" y2="-495"/><text fill="#000" y="3" dy="1em" stroke="none" font-size="10" style="text-anchor: middle;">2018-01-01</text></g></g><g><rect x="0" y="48" width="1218.5" height="24" class="section section0"/><rect x="0" y="72" width="1218.5" height="24" class="section section0"/><rect x="0" y="96" width="1218.5" height="24" class="section section0"/><rect x="0" y="120" width="1218.5" height="24" class="section section0"/><rect x="0" y="144" width="1218.5" height="24" class="section section0"/><rect x="0" y="168" width="1218.5" height="24" class="section section1"/><rect x="0" y="192" width="1218.5" height="24" class="section section1"/><rect x="0" y="216" width="1218.5" height="24" class="section section1"/><rect x="0" y="240" width="1218.5" height="24" class="section section1"/><rect x="0" y="264" width="1218.5" height="24" class="section section1"/><rect x="0" y="288" width="1218.5" height="24" class="section section1"/><rect x="0" y="312" width="1218.5" height="24" class="section section1"/><rect x="0" y="336" width="1218.5" height="24" class="section section1"/><rect x="0" y="360" width="1218.5" height="24" class="section section1"/><rect x="0" y="384" width="1218.5" height="24" class="section section1"/><rect x="0" y="408" width="1218.5" height="24" class="section section1"/><rect x="0" y="432" width="1218.5" height="24" class="section section1"/><rect x="0" y="456" width="1218.5" height="24" class="section section1"/><rect x="0" y="480" width="1218.5" height="24" class="section section1"/><rect x="0" y="504" width="1218.5" height="24" class="section section1"/></g><g><rect id="task1" rx="3" ry="3" x="75" y="50" width="33" height="20" transform-origin="91.5px 60px" class="task active0 "/><rect id="task2" rx="3" ry="3" x="477" y="74" width="704" height="20" transform-origin="829px 84px" class="task active0 "/><rect id="active1" rx="3" ry="3" x="81" y="98" width="1100" height="20" transform-origin="631px 108px" class="task task0 "/><rect id="task3" rx="3" ry="3" x="196" y="122" width="985" height="20" transform-origin="688.5px 132px" class="task active0 "/><rect id="active1" rx="3" ry="3" x="1093" y="146" width="88" height="20" transform-origin="1137px 156px" class="task task0 "/><rect id="task4" rx="3" ry="3" x="91" y="170" width="83" height="20" transform-origin="132.5px 180px" class="task done1 "/><rect id="task5" rx="3" ry="3" x="1126" y="194" width="5" height="20" transform-origin="1128.5px 204px" class="task done1 "/><rect id="task6" rx="3" ry="3" x="196" y="218" width="93" height="20" transform-origin="242.5px 228px" class="task done1 "/><rect id="task7" rx="3" ry="3" x="229" y="242" width="11" height="20" transform-origin="234.5px 252px" class="task done1 "/><rect id="task8" rx="3" ry="3" x="262" y="266" width="6" height="20" transform-origin="265px 276px" class="task done1 "/><rect id="task9" rx="3" ry="3" x="262" y="290" width="27" height="20" transform-origin="275.5px 300px" class="task done1 "/><rect id="task10" rx="3" ry="3" x="262" y="314" width="27" height="20" transform-origin="275.5px 324px" class="task done1 "/><rect id="task11" rx="3" ry="3" x="284" y="338" width="5" height="20" transform-origin="286.5px 348px" class="task done1 "/><rect id="task12" rx="3" ry="3" x="295" y="362" width="11" height="20" transform-origin="300.5px 372px" class="task done1 "/><rect id="task13" rx="3" ry="3" x="1027" y="386" width="5" height="20" transform-origin="1029.5px 396px" class="task done1 "/><rect id="task14" rx="3" ry="3" x="1148" y="410" width="11" height="20" transform-origin="1153.5px 420px" class="task done1 "/><rect id="task15" rx="3" ry="3" x="510" y="434" width="82" height="20" transform-origin="551px 444px" class="task done1 "/><rect id="task16" rx="3" ry="3" x="867" y="458" width="303" height="20" transform-origin="1018.5px 468px" class="task done1 "/><rect id="task17" rx="3" ry="3" x="906" y="482" width="159" height="20" transform-origin="985.5px 492px" class="task done1 "/><rect id="task18" rx="3" ry="3" x="939" y="506" width="126" height="20" transform-origin="1002px 516px" class="task done1 "/><text id="task1-text" font-size="11" x="113" y="63.5" text-height="20" class=" taskTextOutsideRight taskTextOutside0 activeText0 width-51.265625">JavaScript    </text><text id="task2-text" font-size="11" x="829" y="87.5" text-height="20" class=" taskText taskText0 activeText0 width-51.265625">JavaScript    </text><text id="active1-text" font-size="11" x="631" y="111.5" text-height="20" class=" taskText taskText0  width-22.8125">Java          </text><text id="task3-text" font-size="11" x="688.5" y="135.5" text-height="20" class=" taskText taskText0 activeText0 width-22.859375">Bash          </text><text id="active1-text" font-size="11" x="1137" y="159.5" text-height="20" class=" taskText taskText0  width-52.5625">TypeScript    </text><text id="task4-text" font-size="11" x="132.5" y="183.5" text-height="20" class=" taskText taskText1  doneText1 width-19.734375">PHP           </text><text id="task5-text" font-size="11" x="1136" y="207.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-19.734375">PHP           </text><text id="task6-text" font-size="11" x="242.5" y="231.5" text-height="20" class=" taskText taskText1  doneText1 width-7.203125">C             </text><text id="task7-text" font-size="11" x="245" y="255.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-58.203125">Visual Basic  </text><text id="task8-text" font-size="11" x="273" y="279.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-33.6875">Occam         </text><text id="task9-text" font-size="11" x="275.5" y="303.5" text-height="20" class=" taskText taskText1  doneText1 width-18.125">C++           </text><text id="task10-text" font-size="11" x="275.5" y="327.5" text-height="20" class=" taskText taskText1  doneText1 width-12.1875">C♯            </text><text id="task11-text" font-size="11" x="294" y="351.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-19.828125">Ada           </text><text id="task12-text" font-size="11" x="311" y="375.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-34.234375">Python        </text><text id="task13-text" font-size="11" x="1037" y="399.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-34.234375">Python        </text><text id="task14-text" font-size="11" x="1164" y="423.5" text-height="20" class=" taskTextOutsideRight taskTextOutside1  doneText1 width-34.234375">Python        </text><text id="task15-text" font-size="11" x="551" y="447.5" text-height="20" class=" taskText taskText1  doneText1 width-61.234375">ActionScript  </text><text id="task16-text" font-size="11" x="1018.5" y="471.5" text-height="20" class=" taskText taskText1  doneText1 width-26.171875">Scala         </text><text id="task17-text" font-size="11" x="985.5" y="495.5" text-height="20" class=" taskText taskText1  doneText1 width-58.421875">Objective C   </text><text id="task18-text" font-size="11" x="1002" y="519.5" text-height="20" class=" taskText taskText1  doneText1 width-25.484375">Swift         </text></g><g><text x="10" y="110" class="sectionTitle sectionTitle0">Current</text><text x="10" y="350" class="sectionTitle sectionTitle1">Rusty-or-rookie</text></g><text x="628" y="25" class="titleText">Programming languages I can or could write</text></svg>
