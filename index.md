@@ -31,7 +31,7 @@ I have mixed feelings about programming languages. Non-IT or non-developer peopl
 I see the same conflation in the french public education, our (so-called) specialists say:
 > Kids should learn at school coding/how to program.
 
-I am confused. I think kids should really see the whole picture and grow a digital culture, by learning and understanding our digital world in its countless fields: privacy, cloud, GAFAM, banking, internet, networks, social media...
+I am confused. I think kids should really see the whole picture and grow a digital culture, by learning and understanding our digital world in its countless fields: privacy, security, cloud, GAFAM, banking, internet, networks, social media...
 
 For those who say:
 > These bunch of developers, they just have ["to shit code"](http://www.quickmeme.com/img/7c/7c0cc2ef5055864b867487205e7e8b08f0776077fd1570149809119163a4a15a.jpg).
