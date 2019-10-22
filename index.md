@@ -8,6 +8,8 @@ _________________________________
 ###### Published on 2019-xx-xx.
 
 Text
+
+<br><br><br>
 -->
 
 
@@ -86,6 +88,7 @@ Swift         :done, 2016-01,2017-12
 
 This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
 
+<br><br><br>
 
 
 
@@ -206,6 +209,7 @@ Spend time setting up the style and its consistency, using unfriendly slow propr
 
 I, however, admit tools like Google docs or Sharepoint can be nice to quickly collaborate with non-developers, but still lack plain-text straightforward simplicity.
 
+<br><br><br>
 
 
 ## Tech skills: necessary but not sufficient :no_mouth:
@@ -214,3 +218,5 @@ I, however, admit tools like Google docs or Sharepoint can be nice to quickly co
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 
 However, [as someone mentioned this issue](https://github.com/kamranahmedse/developer-roadmap/issues/40), we lack of some social skills developer roadmap. All these really nice tech skills are useless without the ability to promote and argue about your technical choices and approaches. 
+
+<br><br><br>
