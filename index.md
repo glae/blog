@@ -4,15 +4,14 @@ _This is my blog. I'll post about random developer stuff._
 
 
 <!-- template:
-_________________________________
-
-// two ## are needed for permalink
 ## Title... :emoji:
 ###### Published on 2019-xx-xx.
 
 Text
 
-<br><br>
+<br>
+<hr>
+<br>
 -->
 
 
