@@ -1,6 +1,6 @@
 _This is my blog. I'll post about random developer stuff._
 
-<br><br>
+<br>
 
 
 <!-- template:
