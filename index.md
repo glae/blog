@@ -76,7 +76,9 @@ Swift         :done, 2016-01,2017-12
 
 This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 
 
@@ -197,7 +199,9 @@ Spend time setting up the style and its consistency, using unfriendly slow propr
 
 I, however, admit tools like Google docs or Sharepoint can be nice to quickly collaborate with non-developers, but still lack plain-text straightforward simplicity.
 
-<br><hr><br>
+<br>
+<hr>
+<br>
 
 
 
