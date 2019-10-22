@@ -47,40 +47,25 @@ dateFormat  YYYY-MM
 section Current
 JavaScript    :active, 2002-12,2003-06
 JavaScript    :active, 2009-01,2019-09
-
 Java          :active1, 2003-01,2019-09
-
 Bash          :active, 2004-10,2019-09
-
 TypeScript    :active1, 2018-05,2019-09
-
 
 section Rusty-or-rookie
 PHP           :done, 2003-03, 2004-06
 PHP           :done, 2018-11, 2018-12
-
 C             :done, 2004-10,2006-03
-
 Visual Basic  :done, 2005-04, 2005-06
-
 Occam         :done, 2005-10,2005-11
-
 C++           :done, 2005-10,2006-03
-
 C♯            :done, 2005-10,2006-03
-
 Ada           :done, 2006-02,2006-03
-
 Python        :done, 2006-04,2006-06
 Python        :done, 2017-05,2017-06
 Python        :done, 2019-03,2019-05
-
 ActionScript  :done, 2009-07,2010-10
-
 Scala         :done, 2014-12,2019-07
-
 Objective C   :done, 2015-07,2017-12
-
 Swift         :done, 2016-01,2017-12
 -->
 
