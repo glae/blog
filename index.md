@@ -8,9 +8,6 @@ _________________________________
 ###### Published on 2019-xx-xx.
 
 Text
-
-<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-xx-xx%20post&assignee=glae)</strong></small><br><br>
-
 -->
 
 
@@ -42,7 +39,7 @@ We see every year or semester, the "trendy top languages" news, like the famous 
 
 <!--
 gantt 
-title Programming languages I can or could write
+title Programming languages I can (in color) or could (in grey) write
 dateFormat  YYYY-MM
 
 section Current
@@ -88,8 +85,6 @@ Swift         :done, 2016-01,2017-12
 ![timeline](2019-10-20-timeline.svg "timeline")
 
 This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
-
-<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-20%20post&assignee=glae)</strong></small><br><br>
 
 
 
@@ -212,9 +207,6 @@ Spend time setting up the style and its consistency, using unfriendly slow propr
 I, however, admit tools like Google docs or Sharepoint can be nice to quickly collaborate with non-developers, but still lack plain-text straightforward simplicity.
 
 
-<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-10-16%20post&assignee=glae)</strong></small><br><br>
-
-
 
 ## Tech skills: necessary but not sufficient :no_mouth:
 ###### Published on [2019-08-29](https://xkcd.com/1179/).
@@ -222,5 +214,3 @@ I, however, admit tools like Google docs or Sharepoint can be nice to quickly co
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 
 However, [as someone mentioned this issue](https://github.com/kamranahmedse/developer-roadmap/issues/40), we lack of some social skills developer roadmap. All these really nice tech skills are useless without the ability to promote and argue about your technical choices and approaches. 
-
-<small><strong>[Comment this post!](https://github.com/glae/blog/issues/new?title=Comment%20on%202019-08-29%20post&assignee=glae)</strong></small><br><br>
