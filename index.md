@@ -5,7 +5,7 @@ _This is my (raw: no comments/no tags) blog. I'll mainly post about random softw
 
 <!-- template:
 ## Title... :emoji:
-###### Published on 2019-xx-xx.
+##### Published on 2019-xx-xx.
 
 Text
 
@@ -17,7 +17,7 @@ Text
 
 
 ## To develop = to code, right? :label:
-###### Published on 2019-10-20.
+##### Published on 2019-10-20.
 
 ### "You code all day long"
 
@@ -82,7 +82,7 @@ This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
 
 
 ## My dream ASCII company :page_with_curl:
-###### Published on 2019-10-16.
+##### Published on 2019-10-16.
 
 I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII) or plain text as a primary format for its written work. 
 
@@ -112,8 +112,9 @@ I immediately felt in love with it... Well, until I had to include figures and t
 ```latex
 \chapter{Schedulability}
 
-	The development of an embedded real-time application supposes that it needs to 
-        be scheduled. First, we know that scheduling is based on three components:
+	The development of an embedded real-time application supposes that it needs
+        to be scheduled. First, we know that scheduling is based 
+	on three components:
 	\begin{itemize}
 		\item[-] an algorithm for allocating the resources
                          \emph{(scheduling mechanism)}
@@ -209,7 +210,7 @@ I, however, admit tools like Google docs or Sharepoint can be nice to quickly co
 
 
 ## Tech skills: necessary but not sufficient :no_mouth:
-###### Published on [2019-08-29](https://xkcd.com/1179/).
+##### Published on [2019-08-29](https://xkcd.com/1179/).
 
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 
