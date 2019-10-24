@@ -2,7 +2,6 @@ title: glae's random dev thoughts
 plugins:
   - jemoji
 #nice themes:
-theme: jekyll-theme-cayman 
+#theme: jekyll-theme-cayman 
 #theme: minima
-#theme: jekyll-theme-cayman
-#theme: jekyll-theme-slate
+theme: jekyll-theme-slate
