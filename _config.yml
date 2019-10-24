@@ -3,7 +3,6 @@ plugins:
   - jemoji
   - jekyll-feed
 theme: jekyll-theme-cayman 
-markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+markdown: kramdown
+  auto_ids:       true
+  toc_levels:     1..3
