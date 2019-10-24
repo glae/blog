@@ -1,5 +1,7 @@
 title: glae's random dev thoughts
 plugins:
   - jemoji
-theme: minima
-
+theme:jekyll-theme-cayman 
+#nice themes:
+#minima
+#jekyll-theme-cayman
