@@ -3,5 +3,8 @@ plugins:
   - jemoji
   - jekyll-feed
 theme: jekyll-theme-cayman 
-markdown: kramdown
-  auto_ids: true
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids:       true
+  toc_levels:     1..3
