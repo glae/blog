@@ -8,7 +8,7 @@ kramdown:
   syntax_highlighter: rouge
   input: GFM
   auto_ids: true
-  auto_id_pre fix: true
+  auto_id_prefix: true
   auto_id_stripping: true
   toc_levels: 1..3
   

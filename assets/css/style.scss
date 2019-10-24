@@ -1,8 +1,8 @@
 ---
 ---
 // Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
+$large-breakpoint: 10em !default;
+$medium-breakpoint: 10em !default;
 
 // Headers
 $header-heading-color: #fff !default;
@@ -25,10 +25,10 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
 .page-header {
-    padding-top: 2rem;
-    padding-right: 6rem;
-    padding-bottom: 2rem;
-    padding-left: 6rem;
+    padding-top: 2rem !important;
+    padding-right: 6rem !important;
+    padding-bottom: 2rem !important;
+    padding-left: 6rem !important;
 }
 
 @import "{{ site.theme }}";
