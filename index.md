@@ -215,7 +215,3 @@ I, however, admit tools like Google docs or Sharepoint can be nice to quickly co
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 
 However, [as someone mentioned this issue](https://github.com/kamranahmedse/developer-roadmap/issues/40), we lack of some social skills developer roadmap. All these really nice tech skills are useless without the ability to promote and argue about your technical choices and approaches. 
-
-<br>
-<br>
-<br>
