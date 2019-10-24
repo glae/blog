@@ -1,5 +1,8 @@
 ---
 ---
 $section-headings-color: #0086b3;
+$header-heading-color: #fff !default;
+$header-bg-color: #0086b3 !default;
+$header-bg-color-secondary: #0086b3 !default;
 
 @import "{{ site.theme }}";
