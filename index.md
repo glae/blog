@@ -112,13 +112,16 @@ I immediately felt in love with it... Well, until I had to include figures and t
 ```latex
 \chapter{Schedulability}
 
-	The development of an embedded real-time application supposes that it needs to be 
-    scheduled. First, we know that scheduling is based on three components:
+	The development of an embedded real-time application supposes that it needs to 
+        be scheduled. First, we know that scheduling is based on three components:
 	\begin{itemize}
-		\item[-] an algorithm for allocating the resources \emph{(scheduling mechanism)}
-		\item[-] an algorithm for ordering access to resources \emph{(scheduling policy)}
-		\item[-] a means of predicting the worst-case behavior of the system when the 
-        policy and mechanism are applied \emph{(schedulability analysis)}
+		\item[-] an algorithm for allocating the resources
+                         \emph{(scheduling mechanism)}
+		\item[-] an algorithm for ordering access to resources 
+                          \emph{(scheduling policy)}
+		\item[-] a means of predicting the worst-case behavior of the 
+                         system when the policy and mechanism 
+                         are applied \emph{(schedulability analysis)}
 	\end{itemize}
 
 \section{Assessment}
@@ -143,7 +146,8 @@ I also tried to use LaTeX with its presentation mode, [Beamer](https://github.co
 \begin{block}{A task}
 \begin{itemize}
   \item is an entity of an use-case
-  \item encapsulates an object with \texttt{in} and \texttt{out} \emph{ports} to communicate
+  \item encapsulates an object with \texttt{in} and \texttt{out} \emph{ports}
+        to communicate
   \item has some temporal attributes:
   \begin{itemize}
     \item static ones: MAXTC, MINTC
