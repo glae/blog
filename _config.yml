@@ -1,6 +1,5 @@
 title: glae's random dev thoughts
 baseurl: "/blog"
-url: "https://github.com/glae"
 plugins:
   - jemoji
 theme: jekyll-theme-cayman
