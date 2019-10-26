@@ -1,9 +1,10 @@
 title: glae's random dev thoughts
 plugins:
   - jemoji
-baseurl : blog/
+baseurl : /blog
 theme: jekyll-theme-cayman 
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
+  
