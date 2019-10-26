@@ -1,7 +1,3 @@
-_This is my (raw: no comments/no tags) blog. I'll mainly post about random software developer stuff._
-
-<br>
-
 
 <!-- template:
 ## Title... :emoji:
