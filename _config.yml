@@ -1,9 +1,11 @@
 title: glae's random dev thoughts
+baseurl: "/blog"
+url: "https://github.com/glae"
 plugins:
   - jemoji
-theme: jekyll-theme-cayman 
+theme: jekyll-theme-cayman
+basurl :
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-  
