@@ -1,5 +1,4 @@
 title: glae's random dev thoughts
-baseurl: "/blog"
 plugins:
   - jemoji
 theme: jekyll-theme-cayman
@@ -7,5 +6,4 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-baseurl: "/blog"
-url: "https://glae.github.io" 
+url: "https://glae.github.io/blog" 
