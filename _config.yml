@@ -4,7 +4,6 @@ plugins:
   - jekyll-feed
 theme: jekyll-theme-cayman 
 baseurl: /blog/
-url: https://glae.github.io/blog/
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
