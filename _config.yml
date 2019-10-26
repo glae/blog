@@ -3,9 +3,7 @@ plugins:
   - jemoji
   - jekyll-feed
 theme: jekyll-theme-cayman 
-baseurl: /blog/
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-  auto_ids: true
