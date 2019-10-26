@@ -1,7 +1,6 @@
 title: glae's random dev thoughts
 plugins:
   - jemoji
-baseurl : /blog
 theme: jekyll-theme-cayman 
 markdown: kramdown
 kramdown:
