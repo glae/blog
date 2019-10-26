@@ -57,7 +57,7 @@ Objective C   :done, 2015-07,2017-12
 Swift         :done, 2016-01,2017-12
 -->
 
-![timeline](2019-10-20-timeline.svg "timeline")
+![timeline](/blog/assets/2019-10-20-timeline.svg "timeline")
 
 This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
 

@@ -6,4 +6,4 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-url: "https://glae.github.io/blog" 
+url: "https://glae.github.io/blog"

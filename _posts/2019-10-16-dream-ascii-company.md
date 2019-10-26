@@ -59,7 +59,7 @@ Any text editor can be used (vi, Emacs, Notepad, Atom, Visual Studio Code...) or
 
 And the rendered output PDF:
 <br>
-![rendered latex](/assets/2019-10-16-a.png "rendered latex")
+![rendered latex](/blog/assets/2019-10-16-a.png "rendered latex")
 
 I also tried to use LaTeX with its presentation mode, [Beamer](https://github.com/josephwright/beamer), and created clean PDF presentations with source like: 
 ```latex
@@ -83,7 +83,7 @@ I also tried to use LaTeX with its presentation mode, [Beamer](https://github.co
 ```
 And the rendered presentation:
 <br>
-![rendered latex](/assets/2019-10-16-b.png "rendered latex")
+![rendered latex](/blog/assets/2019-10-16-b.png "rendered latex")
 
 Nowadays HTML alternatives like [Reveal.js](https://github.com/hakimel/reveal.js), which can include Markdown format also seem to be good solutions.
 
@@ -116,7 +116,7 @@ sequenceDiagram
 
 renders as PNG (but it could be SVG, which is... well, plain text!): 
 <br>
-![rendered mermaid](/assets/2019-10-16-c.png "rendered mermaid")
+![rendered mermaid](/blog/assets/2019-10-16-c.png "rendered mermaid")
 
 
 ## Excel, Pages, Word, PowerPoint, LibreOffice: really, why not?
