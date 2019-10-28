@@ -3,8 +3,7 @@ layout: post
 title: "Tech skills: necessary but not sufficient :no_mouth:"
 ---
 
-
-# Tech skills: necessary but not sufficient :no_mouth:
+# {{page.title}}
 
 I often see this [learning roadmap link](https://github.com/kamranahmedse/developer-roadmap). It is a nice start for anyone who wants to learn or to improve its development skills. 
 

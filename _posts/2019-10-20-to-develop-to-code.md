@@ -3,7 +3,7 @@ layout: post
 title: "To develop = to code, right? :label:"
 ---
 
-# To develop = to code, right? :label:
+# {{page.title}}
 
 ## "You code all day long"
 

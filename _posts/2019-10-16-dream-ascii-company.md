@@ -3,8 +3,7 @@ layout: post
 title: "My dream ASCII company :page_with_curl:"
 ---
 
-
-# My dream ASCII company :page_with_curl:
+# {{page.title}}
 
 I wish I work in a company that use [ASCII](https://en.wikipedia.org/wiki/ASCII) or plain text as a primary format for its written work. 
 
