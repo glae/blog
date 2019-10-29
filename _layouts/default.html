@@ -21,11 +21,8 @@
 
         <ul>
             {% for post in site.posts %}
-            <p>
-                {{ post.date | date: '%B %d, %Y' }}<br>
-                <a href="{{ post.url | relative_url }}"> - {{ post.title }}</a>
-            </p>
-            <hr>
+            <p style="color: #819198;"> {{ post.date | date: '%B %d, %Y' }}</p>
+            <p style="font-size: 1.5em;"> <a href="{{ post.url | relative_url }}"> - {{ post.title }}</a></p>
             {% endfor %}
         </ul>
 
