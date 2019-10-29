@@ -21,7 +21,7 @@
 
         {% for post in site.posts %}
         <p>
-            <span style="font-size:0.75em; color: #819198;"> {{ post.date | date: '%B %d, %Y' }}</span><br>
+            <span style="font-size:0.75em; "> {{ post.date | date: '%B %d, %Y' }}</span><br>
             <span style="font-size: 1.25em;"> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></span>
         </p>
         {% endfor %}
