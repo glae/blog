@@ -39,3 +39,6 @@ https://www.hellosign.com/blog/the-rise-of-developer-experience
 
 
 https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
+
+https://teks.co.in/site/blog/external-apis-vs-internal-apis-know-the-differences/
+
