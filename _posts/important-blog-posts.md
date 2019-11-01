@@ -42,3 +42,9 @@ https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose
 
 https://teks.co.in/site/blog/external-apis-vs-internal-apis-know-the-differences/
 
+http://blog.cleancoder.com/uncle-bob/2015/10/16/Agile-And-Waterfall.html
+
+https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern?utm_campaign=software-testing&utm_medium=social&utm_source=twitter
+
+
+https://medium.com/ltunes/what-is-clean-code-naming-conventions-part-1-426d383eb85d
