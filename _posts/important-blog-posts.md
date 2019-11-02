@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Some blog posts that changed my mind"
+title: Some blog posts that significantely changed my mind :dizzy:
 ---
 
 # {{page.title}}
 
+I have been reading many websites including blogs to increase 
+my software culture. I picked some blog posts that have deeply 
+influenced me and/or changed my mindset. 
+
 I excluded the ones in french, my native tongue.
 
+They are sorted by ascending year:
+
+
 https://blog.jessfraz.com/post/this-industry-is-fucked/
-
-
-https://blog.octo.com/designer-une-api-rest/
 
 
 le truc https://dzone.com/articles/4-types-of-code-reviews-any-professional-developer
