@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some blog posts that significantely changed my mind :dizzy:
+title: "Some blog posts that significantely changed my mind :dizzy:"
 ---
 
 # {{page.title}}
