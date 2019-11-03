@@ -32,7 +32,7 @@ They are grouped by themes:
 ## Computer legacy and general knowledge
 
 - A long but interesting complaint about wasting resources: [https://tonsky.me/blog/disenchantment/](https://tonsky.me/blog/disenchantment/)
-- Our computer world lies on many specifications (RFC, W3C, ISO...), skin-deep knowledge can lead to misinterpretation: [https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
+- Our computer world is based on many specifications (RFC, W3C, ISO...), skin-deep knowledge can lead to misinterpretation: [https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/)
 - Ever heard of `null`? That should be worth a try: [https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/)
 
 
