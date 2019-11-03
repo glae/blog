@@ -42,6 +42,9 @@ They are grouped by themes:
 - I got more and more interested in [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), this blog post is kind of twisted introduction to it: [https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86](https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86)
 
 
-## [Toxicity](https://www.youtube.com/watch?v=iywaBOMvYLI)
+## Toxicity[^1]
 
 - This crap needs to be fixed: [https://blog.jessfraz.com/post/this-industry-is-fucked/](https://blog.jessfraz.com/post/this-industry-is-fucked/)
+
+
+[^1]: [https://www.youtube.com/watch?v=iywaBOMvYLI](https://www.youtube.com/watch?v=iywaBOMvYLI)
