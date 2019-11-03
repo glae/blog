@@ -19,6 +19,7 @@ They are grouped by themes:
 
 - Alice is right: [https://codemonkeyism.com/never-never-never-use-string-in-java-or-at-least-less-often/](https://codemonkeyism.com/never-never-never-use-string-in-java-or-at-least-less-often/)
 - Robert C. Martin is a reference (I did not say "Guru") in software design, and points out many software design issues, one of the most important, **naming**: [https://medium.com/ltunes/what-is-clean-code-naming-conventions-part-1-426d383eb85d](https://medium.com/ltunes/what-is-clean-code-naming-conventions-part-1-426d383eb85d)
+- There are too many things to learn, every developer need to choose wisely which ones to choose: [https://sizovs.net/2018/12/17/stop-learning-frameworks/](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 - We live in a API world, however, they have different purposes and natures : [https://teks.co.in/site/blog/external-apis-vs-internal-apis-know-the-differences/](https://teks.co.in/site/blog/external-apis-vs-internal-apis-know-the-differences/)
 - Testing is a requirement in software industry, it can have several shapes and antipatterns: [https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern](https://www.thoughtworks.com/insights/blog/introducing-software-testing-cupcake-anti-pattern)
 
