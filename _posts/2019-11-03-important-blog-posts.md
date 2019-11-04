@@ -39,7 +39,7 @@ They are grouped by themes:
 
 ## DDD 
 
-- I got more and more interested in [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), this blog post is kind of twisted introduction to it: [https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86](https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86)
+- I got more and more interested in [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), this blog post is a kind of twisted introduction to it: [https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86](https://medium.com/swlh/acronyms-are-making-you-dumb-682e7fd52c86)
 
 
 ## Toxicity[<sup>1</sup>](https://www.youtube.com/watch?v=iywaBOMvYLI)
