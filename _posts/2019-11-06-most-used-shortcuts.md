@@ -47,10 +47,10 @@ All classic text selection and search (VSCode/Notepad/Atom) shortcuts work.
 
 A very powerful selection mode is the incremental selection `Ctrl+W`❼   (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
 
-![](/blog/assets/2019-11-06-ctrl+W.png "")
+![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
 You can enabled the selection even inside words, with CamelHumps mode:
-![](/blog/assets/2019-11-06-humps.png "")
+![humps](/blog/assets/2019-11-06-humps.png "humps")
 
 A nice shortcut too is "Duplicate a line": `Ctrl + D` ❽ 
 
