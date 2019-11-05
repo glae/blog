@@ -52,7 +52,6 @@ You can enabled the selection even inside words, with CamelHumps mode:
 
 ![humps](/blog/assets/2019-11-06-humps.png "humps")
 
-A nice shortcut too is "Duplicate a line": `Ctrl+D` ❽.
 
 ## Insertion 
 
@@ -72,6 +71,7 @@ Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings
 ## Navigation 
 
 Global find/replace, with many options: `Ctrl+Shift+F` ⓬: 
+
 ![search](/blog/assets/2019-11-06-ctrl+shift+F.png "search")
 
 Show usages: `Alt+F7` ⓭. Very useful when refactoring or debugging.
@@ -81,6 +81,12 @@ Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on method
 We can have a file overview with file structure: `Ctrl+F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
 
 ![structure](/blog/assets/2019-11-06-structure.png "structure")
+
+Moving easily through errors is essential: here is "next error" `F2` ❽:
+
+![f2](/blog/assets/2019-11-06-F2.png "f2")
+
+
 
 ## Running
 
