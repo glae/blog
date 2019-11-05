@@ -44,7 +44,7 @@ To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 All standard text selection and search (VSCode/Notepad/Atom) shortcuts work as expected. 
 
-A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
+A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+(🠔🠖🠕🠗)` in standard text editors, but with some words and blocks selection:
 
 ![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
@@ -65,21 +65,19 @@ Or on an executable `object`:
 
 ![executable](/blog/assets/2019-11-06-alt+enter2.png "executable")
 
+Insert a code snippet with `Alt+Ins` ❿: override/implement, add a test... 
 
- ❿ ⓫
-
-Alt+Ins
-
-(Ctrl+Alt+Int)
-
-Ctrl+Alt+L
+Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings dialog. This feature is also available before commiting. 
 
 ## Navigation 
 
-Ctrl + shift + F ⓬
-Alt+F7 ⓭
-alt + flèches (file) ⓮
-Ctrl + F12 ⓯
+- Ctrl + shift + F ⓬ : global search, with many options:
+![search](/blog/assets/2019-11-06-ctrl+shift+F.png "search")
+
+- Alt+F7 ⓭
+- alt + flèches (file) ⓮
+
+- Ctrl + F12 ⓯
 
 ## Run
 
