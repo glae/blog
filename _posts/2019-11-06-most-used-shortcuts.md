@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Some of my preferred IntelliJ IDEA keyboard shortcuts ⌨"
+title: "Some of my preferred IntelliJ IDEA keyboard shortcuts :racehorse:"
 ---
 
 # {{page.title}}
@@ -44,8 +44,11 @@ Ctrl + W
 
 ## Navigation 
 
-alt + flèches 
+alt + flèches (file) + alt+
 Ctrl + F12 
 
 
 ## Run
+
+Ctrl+Shift+F9/F10 
+
