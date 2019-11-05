@@ -75,7 +75,7 @@ Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings
 ![search](/blog/assets/2019-11-06-ctrl+shift+F.png "search")
 - Show usages: Alt+F7 ⓭
 - Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
-- File structure: `Ctrl + F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
+- File structure: `Ctrl+F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
 
 ![structure](/blog/assets/2019-11-06-structure.png "structure")
 
