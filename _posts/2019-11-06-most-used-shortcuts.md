@@ -15,42 +15,48 @@ We're in 2019. So here's **19 IntelliJ IDEA shortcuts**.
 
 <!--http://xahlee.info/comp/unicode_circled_numbers.html-->
 
-## The absolute `shift+shift` ❶
+## The absolute `Shift+Shift` ❶
 
-This one is the God one. The meta one. It's like the Windows or Command key on the operating system. It can find everything: actions (`ctrl+shift+A`), classes (`ctrl+N`), files (`Ctrl+shift+N`), symbols. 
+This one is the God one. The meta one. It's like the Windows or Command key on the operating system. It can find everything: actions (`Ctrl+Shift+A`), classes (`Ctrl+N`), files (`Ctrl+Shift+N`), symbols. 
 
-![shift+shift](/blog/assets/2019-11-06-shift+shift.png "shift+shift")
+![shift+shift](/blog/assets/2019-11-06-shift+shift.png "Shift+Shift")
 
 It is almost the only one shortcut to know and to pretend to be a senior all-inclusive stack developer. Tons of saved hours, they can then be wasted on Twitter or Reddit. 
 
 ## Refactoring 
 
-### Rename: `shift+F6` ❷
+The main reason I first use intelliJ.
+
+### Rename: `Shift+F6` ❷
 
 The basic "rename". Works for everything. Sometimes gives some useful suggestions. 
 
 ![shift+F6](/blog/assets/2019-11-06-shift+F6.png "shift+F6")
 
-### Extract all the things! `ctrl+alt+whatever`
+### Extract all the things! `Ctrl+Alt+whatever`
 
-To extract a field, `ctrl+alt+F` ❸, a variable, `ctrl+alt+V` ❹:
+To extract a field, `Ctrl+Alt+F` ❸, a variable, `Ctrl+Alt+V` ❹:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
-To extract a method, use `ctrl+alt+M` ❺. A parameter, `ctrl+alt+P` ❻.
+To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 ## Selection 
 
-❼ ❽ ❾ ❿ ⓫ ⓬ ⓭ ⓮ ⓯ ⓰ ⓱ ⓲ ⓳
+❼ ❽  
 
-All classic editors works  + 
+All classic editors works (Ctrl+F)  + 
 
 Ctrl + W
-Ctrl + C 
 Ctrl + D
+
+Incremental selection.
+//Ctrl + C 
 //Ctrl+shift+up 
 
 ## Insertion 
+
+❾ ❿  
 
 Alt+Ins
 Alt+Enter 
@@ -60,6 +66,7 @@ Alt+Enter
 
 ## Navigation 
 
+⓫ ⓬ ⓭ ⓮ ⓯ 
 Ctrl + shift + F
 Alt+F7
 alt + flèches (file) 
@@ -73,21 +80,20 @@ Ctrl+Shit+T
 
 ## Run
 
+⓰ ⓱ 
 Ctrl+Shift+F9/F10 
 
 ## Versioning 
 
-Ctrl + T 
+When I'm using a versioning system (git, svn), these two shortcuts are the best:
+⓲ ⓳ 
+- Update a project: `Ctrl + T` 
 Ctrl + K 
 
 ## One last word
 
-Learn them with https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+I used to use plugin to learn shortcuts as [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [editor's page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is just straightforward. I also had a cheat sheet on my desk. 
 
-https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html
-
-Find a cheat sheet. 
-
-You can save a lot of time and refactor efficiently, to focus on serious stuff as design and building nice apps. 
+I save a lot of time by refactoring efficiently, which is saving money because I get paid to develop. I am then able to focus on the core interesting stuff: building and designing software. 
 
 
