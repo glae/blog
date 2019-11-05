@@ -13,6 +13,7 @@ Afterwards I had the opportunity to use and enjoy the IntelliJ IDEA Ultimate ver
 
 We're in 2019. So here's **19 IntelliJ IDEA shortcuts**.
 
+<!--http://xahlee.info/comp/unicode_circled_numbers.html-->
 
 ## The absolute `shift+shift` ❶
 
@@ -24,7 +25,7 @@ It is almost the only one shortcut to know and to pretend to be a senior all-inc
 
 ## Refactoring 
 
-### Rename: `shift+F6`
+### Rename: `shift+F6` ❷
 
 The basic "rename". Works for everything. Sometimes gives some useful suggestions. 
 
@@ -32,14 +33,16 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ### Extract all the things! `ctrl+alt+whatever`
 
-To introduce a **c**onstant, use `ctrl+alt+C`, a **f**ield, `ctrl+alt+F`, a **v**ariable, `ctrl+alt+V`:
+To extract a **f**ield, `ctrl+alt+F` ❸, a **v**ariable, `ctrl+alt+V` ❹:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
-To extract a **m**ethod, use `ctrl+alt+M`. A **p**arameter, `ctrl+alt+P`.
+To extract a **m**ethod, use `ctrl+alt+M` ❺. A **p**arameter, `ctrl+alt+P` ❻.
 
 
 ## Selection 
+
+❼ ❽ ❾ ❿ ⓫ ⓬ ⓭ ⓮ ⓯ ⓰ ⓱ ⓲ ⓳
 
 All classic editors works  + 
 
@@ -75,7 +78,7 @@ Ctrl+Shit+T
 
 Ctrl+Shift+F9/F10 
 
-## Versionning 
+## Versioning 
 
 Ctrl + T 
 Ctrl + K ⑲
