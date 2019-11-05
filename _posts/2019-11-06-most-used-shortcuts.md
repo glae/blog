@@ -11,13 +11,12 @@ I have been using JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) (C
 
 Afterwards I had the opportunity to use and enjoy the IntelliJ IDEA Ultimate version, which contains the very nice SQL client [DataGrip](https://www.jetbrains.com/datagrip/) for instance. I also used Android Studio and AppCode which are the dedicated versions for native-mobile development. I today mostly use it for Angular (TypeScript, HTML, CSS), Spring Boot (Java), SQL and Scala development. 
 
-We're in 2019. So here's **19 IntelliJ IDEA shortcuts**.
+We are in 2019. So here is **19 IntelliJ IDEA shortcuts**.
 
-<!--http://xahlee.info/comp/unicode_circled_numbers.html-->
 
 ## The absolute `Shift+Shift` ❶
 
-This one is the God one. The meta one. It's like the Windows or Command key on the operating system. It can find everything: actions (`Ctrl+Shift+A`), classes (`Ctrl+N`), files (`Ctrl+Shift+N`), symbols. 
+This one is the God one. The meta one. It is like the Windows or Command key on the operating system. It can find everything: actions (`Ctrl+Shift+A`), classes (`Ctrl+N`), files (`Ctrl+Shift+N`), symbols. 
 
 ![shift+shift](/blog/assets/2019-11-06-shift+shift.png "Shift+Shift")
 
@@ -43,45 +42,52 @@ To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 ## Selection 
 
-All classic text selection and search (VSCode/Notepad/Atom) shortcuts work. 
+All standard text selection and search (VSCode/Notepad/Atom) shortcuts work as expected. 
 
-A very powerful selection mode is the incremental selection `Ctrl+W`❼   (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
+A very powerful selection mode is the incremental selection `Ctrl+W` ❼   (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
 
 ![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
 You can enabled the selection even inside words, with CamelHumps mode:
+
 ![humps](/blog/assets/2019-11-06-humps.png "humps")
 
 A nice shortcut too is "Duplicate a line": `Ctrl + D` ❽ 
 
 ## Insertion 
 
-❾ ❿  
+`Alt+Enter` ❾ is as useful as `Shift+Shift` ❶. It is a contextual menu, like "right click" on Windows.
+E.g. on a string text `"hello"`, please note the lightbulb:
+
+![lightbulb](/blog/assets/2019-11-06-alt+enter.png "lightbulb")
+
+Or on an executable `object`:
+
+![executable](/blog/assets/2019-11-06-alt+enter2.png "executable")
+
+
+
+ ❿ ⓫
 
 Alt+Ins
-Alt+Enter 
 
 (Ctrl+Alt+Int)
 
+Ctrl+Alt+L
 
 ## Navigation 
 
-⓫ ⓬ ⓭ ⓮ ⓯ 
-Ctrl + shift + F
-Alt+F7
-alt + flèches (file) 
-Ctrl + F12 
-
-+ alt+ tabs
-Ctrl + F4 to close tabs
-
-Ctrl+Shit+T 
-
+Ctrl + shift + F ⓬
+Alt+F7 ⓭
+alt + flèches (file) ⓮
+Ctrl + F12 ⓯
 
 ## Run
 
-⓰ ⓱ 
-Ctrl+Shift+F9/F10 
+- Run your code from the current cursor context: `Ctrl+Maj+F10` ⓰
+- Debug your code as well: `Ctrl+Maj+F9` ⓱
+
+There are several run/debug variants.
 
 ## Versioning 
 
@@ -95,5 +101,4 @@ I always am using versioning systems (git or SVN), these two shortcuts are the b
 I used to use plugin to learn shortcuts as [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [editor's page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is just straightforward. I also had a cheat sheet on my desk. 
 
 I save a lot of time by refactoring efficiently, which is saving money because I get paid to develop. I am then able to focus on the core interesting stuff: building and designing software. 
-
 
