@@ -32,7 +32,7 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ![shift+F6](/blog/assets/2019-11-06-shift+F6.png "shift+F6")
 
-### Extract all the things! `Ctrl+Alt+whatever`
+### Extract all the things! `Ctrl+Alt+Whatever`
 
 To extract a field, `Ctrl+Alt+F` ❸, a variable, `Ctrl+Alt+V` ❹:
 
@@ -44,7 +44,7 @@ To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 All standard text selection and search (VSCode/Notepad/Atom) shortcuts work as expected. 
 
-A very powerful selection mode is the incremental selection `Ctrl+W` ❼   (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
+A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
 
 ![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
@@ -52,7 +52,7 @@ You can enabled the selection even inside words, with CamelHumps mode:
 
 ![humps](/blog/assets/2019-11-06-humps.png "humps")
 
-A nice shortcut too is "Duplicate a line": `Ctrl + D` ❽ 
+A nice shortcut too is "Duplicate a line": `Ctrl+D` ❽.
 
 ## Insertion 
 
@@ -64,7 +64,6 @@ E.g. on a string text `"hello"`, please note the lightbulb:
 Or on an executable `object`:
 
 ![executable](/blog/assets/2019-11-06-alt+enter2.png "executable")
-
 
 
  ❿ ⓫
@@ -93,12 +92,12 @@ There are several run/debug variants.
 
 I always am using versioning systems (git or SVN), these two shortcuts are the best:
   
-- Update a project: `Ctrl + T` ⓲
-- Commit changes: `Ctrl + K` ⓳ ("Kommit") 
+- Update a project: `Ctrl+T` ⓲
+- Commit changes: `Ctrl+K` ⓳ ("Kommit") 
 
 ## One last word
 
-I used to use plugin to learn shortcuts as [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [editor's page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is just straightforward. I also had a cheat sheet on my desk. 
+I used to use plugin to learn shortcuts as [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [editor's page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is just straightforward. A cheat sheet is a nice tool too. 
 
-I save a lot of time by refactoring efficiently, which is saving money because I get paid to develop. I am then able to focus on the core interesting stuff: building and designing software. 
+I save a lot of time by refactoring efficiently, which is saving money, because I get paid to develop. I am then able to focus on the core interesting stuff: building and designing software. 
 
