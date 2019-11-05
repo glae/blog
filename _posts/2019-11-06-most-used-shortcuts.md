@@ -77,7 +77,7 @@ Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings
 - Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
 - Ctrl + F12 ⓯
 
-## Run
+## Running
 
 - Run code from the current cursor context: `Ctrl+Maj+F10` ⓰
 - Debug code: `Ctrl+Maj+F9` ⓱
@@ -86,14 +86,14 @@ There are several run/debug variants.
 
 ## Versioning 
 
-I always am using versioning systems (git or SVN), these two shortcuts are the best:
+I always use versioning systems (git or SVN), these two shortcuts are the best:
   
 - Update a project: `Ctrl+T` ⓲
 - Commit changes: `Ctrl+K` ⓳ ("Kommit") 
 
 ## One last word
 
-I used to use plugin to learn shortcuts as [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [editor's page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is just straightforward. A cheat sheet is a nice tool too. 
+There is a plugin to learn shortcuts: [Key Promoter](https://plugins.jetbrains.com/plugin/9792-key-promoter-x). The [JetBrains' manual shortcuts page](https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html) is also very clear. A paper cheat sheet is a nice tool too. 
 
 I save a lot of time by refactoring efficiently, which is saving money, because I get paid to develop. I am then able to focus on the core interesting stuff: building and designing software. 
 
