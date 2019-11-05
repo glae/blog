@@ -25,7 +25,7 @@ It is almost the only one shortcut to know and to pretend to be a senior all-inc
 
 The basic "rename". Works for everything. Sometimes gives some useful suggestions. 
 
-![shift+F6](/blog/assets/2019-11-06-shift+shift.png "shift+F6")
+![shift+F6](/blog/assets/2019-11-06-shift+F6.png "shift+F6")
 
 ### Refactor all the things! `ctrl+alt+whatever`
 
