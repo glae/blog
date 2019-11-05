@@ -71,11 +71,14 @@ Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings
 
 ## Navigation 
 
-- Global find/replace, with many options: `Ctrl+Shift+F` ⓬: 
+Global find/replace, with many options: `Ctrl+Shift+F` ⓬: 
 ![search](/blog/assets/2019-11-06-ctrl+shift+F.png "search")
-- Show usages: Alt+F7 ⓭
-- Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
-- File structure: `Ctrl+F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
+
+Show usages: `Alt+F7` ⓭. Very useful when refactoring or debugging.
+
+Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
+
+We can have a file overview with file structure: `Ctrl+F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
 
 ![structure](/blog/assets/2019-11-06-structure.png "structure")
 
