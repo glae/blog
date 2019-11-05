@@ -82,7 +82,7 @@ We can have a file overview with file structure: `Ctrl+F12` ⓯, it can also be 
 
 ![structure](/blog/assets/2019-11-06-structure.png "structure")
 
-Moving easily through errors is essential: here is "next error" `F2` ❽. We can customize which kind of error to navigate to. The top-right icon (!) shows there is something wrong in the whole file, and the right gutter marks the issues (the red one: an error, the yellow one: a warning).
+Moving easily through errors is essential: here is "next error" `F2` ❽. We can customize which kind of error to navigate to. The top-right red icon (!) shows there is something wrong in the whole file, and the right gutter marks the issues (the red one: an error, the yellow one: a warning).
 
 ![f2](/blog/assets/2019-11-06-F2.png "f2")
 
