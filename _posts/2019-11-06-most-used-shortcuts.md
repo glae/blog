@@ -33,12 +33,11 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ### Extract all the things! `ctrl+alt+whatever`
 
-To extract a **f**ield, `ctrl+alt+F` ❸, a **v**ariable, `ctrl+alt+V` ❹:
+To extract a field, `ctrl+alt+F` ❸, a variable, `ctrl+alt+V` ❹:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
-To extract a **m**ethod, use `ctrl+alt+M` ❺. A **p**arameter, `ctrl+alt+P` ❻.
-
+To extract a method, use `ctrl+alt+M` ❺. A parameter, `ctrl+alt+P` ❻.
 
 ## Selection 
 
@@ -49,9 +48,7 @@ All classic editors works  +
 Ctrl + W
 Ctrl + C 
 Ctrl + D
-Ctrl+shift+up 
-
-
+//Ctrl+shift+up 
 
 ## Insertion 
 
@@ -81,11 +78,15 @@ Ctrl+Shift+F9/F10
 ## Versioning 
 
 Ctrl + T 
-Ctrl + K ⑲
+Ctrl + K 
 
 ## One last word
 
 Learn them with https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+
+https://www.jetbrains.com/help/idea/mastering-keyboard-shortcuts.html
+
+Find a cheat sheet. 
 
 You can save a lot of time and refactor efficiently, to focus on serious stuff as design and building nice apps. 
 
