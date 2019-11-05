@@ -29,7 +29,7 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ### Extract all the things! `ctrl+alt+whatever`
 
-To introduce a `c`onstant, use `ctrl+alt+C`, to introduce a `v`ariable, use `ctrl+alt+V` :
+To introduce a **c**onstant, use `ctrl+alt+C`, to introduce a `v`ariable, use `ctrl+alt+V`:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
