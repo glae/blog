@@ -78,7 +78,7 @@ Ctrl+Shift+F9/F10
 ## Versionning 
 
 Ctrl + T 
-Ctrl + K
+Ctrl + K ⑲
 
 ## One last word
 
