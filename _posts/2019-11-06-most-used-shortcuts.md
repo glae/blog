@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My preferred IntelliJ IDEA keyboard shortcuts :racehorse:"
+title: "My preferred IntelliJ IDEA shortcuts :racehorse:"
 ---
 
 # {{page.title}}
