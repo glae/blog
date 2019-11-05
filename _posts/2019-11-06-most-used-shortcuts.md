@@ -71,18 +71,16 @@ Reformat your code: `Ctrl+Alt+L` ⓫ according to the styles defined in settings
 
 ## Navigation 
 
-- Ctrl + shift + F ⓬ : global search, with many options:
+- Global find/replace, with many options: `Ctrl+Shift+F` ⓬: 
 ![search](/blog/assets/2019-11-06-ctrl+shift+F.png "search")
-
-- Alt+F7 ⓭
-- alt + flèches (file) ⓮
-
+- Show usages: Alt+F7 ⓭
+- Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
 - Ctrl + F12 ⓯
 
 ## Run
 
-- Run your code from the current cursor context: `Ctrl+Maj+F10` ⓰
-- Debug your code as well: `Ctrl+Maj+F9` ⓱
+- Run code from the current cursor context: `Ctrl+Maj+F10` ⓰
+- Debug code: `Ctrl+Maj+F9` ⓱
 
 There are several run/debug variants.
 
