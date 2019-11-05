@@ -50,17 +50,30 @@ Ctrl+shift+up
 ## Insertion 
 
 Alt+Ins
+Alt+Enter 
+
+(Ctrl+Alt+Int)
+
 
 ## Navigation 
 
-alt + flèches (file) + alt+
+alt + flèches (file) 
 Ctrl + F12 
+
++ alt+ tabs
+Ctrl + F4 to close tabs
+
 Ctrl+Shit+T 
+
 
 ## Run
 
 Ctrl+Shift+F9/F10 
 
+## Versionning 
+
+Ctrl + T 
+Ctrl + K
 
 ## One last word
 
