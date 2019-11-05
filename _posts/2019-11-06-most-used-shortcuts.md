@@ -29,19 +29,27 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ### Extract all the things! `ctrl+alt+whatever`
 
-To introduce a **c**onstant, use `ctrl+alt+C`, to introduce a `v`ariable, use `ctrl+alt+V`:
+To introduce a **c**onstant, use `ctrl+alt+C`, to introduce a **v**ariable, use `ctrl+alt+V`:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
-To extract a `m`ethod, use `ctrl+alt+M`. A `p`arameter, `ctrl+alt+P`.
+To extract a **m**ethod, use `ctrl+alt+M`. A **p**arameter, `ctrl+alt+P`.
 
 
 ## Selection 
 
+All classic editors works + 
+
 Ctrl + W
+Ctrl + C 
+Ctrl + D
+Ctrl+shift+up 
+
+
 
 ## Insertion 
 
+Alt+Ins
 
 ## Navigation 
 
@@ -52,4 +60,12 @@ Ctrl+Shit+T
 ## Run
 
 Ctrl+Shift+F9/F10 
+
+
+## One last word
+
+Learn them with https://plugins.jetbrains.com/plugin/9792-key-promoter-x
+
+You can save a lot of time and refactor efficiently, to focus on serious stuff as design and building nice apps. 
+
 
