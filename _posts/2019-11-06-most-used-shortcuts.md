@@ -43,16 +43,16 @@ To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 ## Selection 
 
-❼ ❽  
+All classic text selection and search (VSCode/Notepad/Atom) shortcuts work. 
 
-All classic editors works (Ctrl+F)  + 
+A very powerful selection mode is the incremental selection `Ctrl+W`❼   (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+Arrows` in standard text editors, but with some words and blocks selection:
 
-Ctrl + W
-Ctrl + D
+![](/blog/assets/2019-11-06-ctrl+W.png "")
 
-Incremental selection.
-//Ctrl + C 
-//Ctrl+shift+up 
+You can enabled the selection even inside words, with CamelHumps mode:
+![](/blog/assets/2019-11-06-humps.png "")
+
+A nice shortcut too is "Duplicate a line": `Ctrl + D` ❽ 
 
 ## Insertion 
 
@@ -85,10 +85,10 @@ Ctrl+Shift+F9/F10
 
 ## Versioning 
 
-When I'm using a versioning system (git, svn), these two shortcuts are the best:
-⓲ ⓳ 
-- Update a project: `Ctrl + T` 
-Ctrl + K 
+I always am using versioning systems (git or SVN), these two shortcuts are the best:
+  
+- Update a project: `Ctrl + T` ⓲
+- Commit changes: `Ctrl + K` ⓳ ("Kommit") 
 
 ## One last word
 
