@@ -11,7 +11,10 @@ I have been using JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) (C
 
 Afterwards I had the opportunity to use and enjoy the IntelliJ IDEA Ultimate version, which contains the very nice SQL client [DataGrip](https://www.jetbrains.com/datagrip/) for instance. I also used Android Studio and AppCode which are the dedicated versions for native-mobile development. I today mostly use it for Angular (TypeScript, HTML, CSS), Spring Boot (Java), SQL and Scala development. 
 
-## The absolute `shift+shift`
+We're in 2019. So here's **19 IntelliJ IDEA shortcuts**.
+
+
+## The absolute `shift+shift` ❶
 
 This one is the God one. The meta one. It's like the Windows or Command key on the operating system. It can find everything: actions (`ctrl+shift+A`), classes (`ctrl+N`), files (`Ctrl+shift+N`), symbols. 
 
@@ -29,7 +32,7 @@ The basic "rename". Works for everything. Sometimes gives some useful suggestion
 
 ### Extract all the things! `ctrl+alt+whatever`
 
-To introduce a **c**onstant, use `ctrl+alt+C`, to introduce a **v**ariable, use `ctrl+alt+V`:
+To introduce a **c**onstant, use `ctrl+alt+C`, a **f**ield, `ctrl+alt+F`, a **v**ariable, `ctrl+alt+V`:
 
 ![ctrlaltv](/blog/assets/2019-11-06-ctrl+alt+V.png "ctrlaltv")
 
@@ -38,7 +41,7 @@ To extract a **m**ethod, use `ctrl+alt+M`. A **p**arameter, `ctrl+alt+P`.
 
 ## Selection 
 
-All classic editors works + 
+All classic editors works  + 
 
 Ctrl + W
 Ctrl + C 
@@ -57,6 +60,8 @@ Alt+Enter
 
 ## Navigation 
 
+Ctrl + shift + F
+Alt+F7
 alt + flèches (file) 
 Ctrl + F12 
 
