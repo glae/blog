@@ -11,7 +11,7 @@ I have been using JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) (C
 
 Afterwards I had the opportunity to use and enjoy the IntelliJ IDEA Ultimate version, which contains the very nice SQL client [DataGrip](https://www.jetbrains.com/datagrip/) for instance. I also used Android Studio and AppCode which are the dedicated versions for native-mobile development. I today mostly use it for Angular (TypeScript, HTML, SCSS), Spring Boot (Java), SQL and a bit of Scala development. 
 
-We are in 2019. So here is **19 IntelliJ IDEA shortcuts**.
+We are in 2019. So here are **19 IntelliJ IDEA shortcuts**.
 
 
 ## The absolute `Shift+Shift` ❶
