@@ -44,7 +44,7 @@ To extract a method, use `Ctrl+Alt+M` ❺. A parameter, `Ctrl+Alt+P` ❻.
 
 All standard text selection and search (VSCode/Notepad/Atom) shortcuts work as expected. 
 
-A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+(🠔🠖🠕🠗)` in standard text editors, but with some words and blocks selection:
+A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+Shift+W` to rollback), which works close to `Ctrl+Shift+(←↑→↓)` in standard text editors, but with some words and blocks selection:
 
 ![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
@@ -76,7 +76,7 @@ Global find/replace, with many options: `Ctrl+Shift+F` ⓬:
 
 Show usages: `Alt+F7` ⓭. Very useful when refactoring or debugging.
 
-Move between open tabs: `Alt+(🠔🠖)` ⓮, move inside a file, jump on methods: `Alt+(🠕🠗)`
+Move between open tabs: `Alt+(←→)` ⓮, move inside a file, jump on methods: `Alt+(↑↓)`
 
 We can have a file overview with file structure: `Ctrl+F12` ⓯, it can also be seen with the "Structure" view (`Alt+7`):
 
