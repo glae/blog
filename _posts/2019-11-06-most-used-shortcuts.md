@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "My preferred IntelliJ IDEA shortcuts :racehorse:"
+title: "My favorite IntelliJ IDEA shortcuts :racehorse:"
 ---
 
 # {{page.title}}
 
 **Disclaimer:** This post is not intented to be original!
 
-I have been using JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community edition) since 2012. A colleague showed us this IDE and its amazing refactoring features and stability. At the time, most of us were using [Eclipse](https://www.eclipse.org/) or [NetBeans](https://netbeans.apache.org/). I kept using both Eclipse and IntelliJ during months, then I switched solely to IntelliJ (I guess I ragequited Eclipse after a maven or SVN plugin crash). 
+I have been using JetBrains' [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Community edition) since 2012. A colleague showed us this IDE and its amazing refactoring features and stability. At the time, most of us were using [Eclipse](https://www.eclipse.org/) or [NetBeans](https://netbeans.apache.org/). I kept using both Eclipse and IntelliJ during months, then I switched solely to IntelliJ (I guess I ragequit Eclipse after a maven or SVN plugin crash). 
 
 Afterwards I had the opportunity to use and enjoy the IntelliJ IDEA Ultimate version, which contains the very nice SQL client [DataGrip](https://www.jetbrains.com/datagrip/) for instance. I also used Android Studio and AppCode which are the dedicated versions for native-mobile development. I today mostly use it for Angular (TypeScript, HTML, SCSS), Spring Boot (Java), SQL and a bit of Scala development. 
 
@@ -20,11 +20,11 @@ This one is the God one. The meta one. It is like the Windows or Command key on 
 
 ![shift+shift](/blog/assets/2019-11-06-shift+shift.png "Shift+Shift")
 
-It is almost the only one shortcut to know and to pretend to be a senior all-inclusive stack developer. Tons of saved hours, they can then be wasted on Twitter or Reddit. 
+It is almost the only shortcut to know and to pretend to be a senior all-inclusive stack developer. Tons of hours were saved, which of course then were be wasted on Twitter and Reddit. 
 
 ## Refactoring 
 
-The main reason I first use intelliJ.
+The main reason I first used intelliJ.
 
 ### Rename: `Shift+F6` ❷
 
@@ -48,7 +48,7 @@ A very powerful selection mode is the incremental selection `Ctrl+W` ❼ (`Ctrl+
 
 ![ctrlw](/blog/assets/2019-11-06-ctrl+W.png "ctrlw")
 
-You can enabled the selection even inside words, with CamelHumps mode:
+You can enable the selection even inside words, with CamelHumps mode:
 
 ![humps](/blog/assets/2019-11-06-humps.png "humps")
 
