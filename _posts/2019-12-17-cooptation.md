@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does cooptation... :moneybag:"
+title: "Does cooptation... :handshaking:"
 ---
 
 # {{page.title}} 
