@@ -20,12 +20,12 @@ In most of these companies, human resources people promote cooptation: they regu
 ## [Definition time](https://www.youtube.com/watch?v=otCpCn0l4Wo)! 
 
 Acccording to [Wiktionary](https://en.wiktionary.org/wiki/cooptation), a "cooptation" (others forms/synonyms : coöptation (`ö`... really? [Guess what!](https://en.wiktionary.org/wiki/Category:English_terms_spelled_with_%C3%96)), co-optation, co-opting, co-option) is:
-> 2. A co-opting: an absorption or assimilation
+> A co-opting: an absorption or assimilation
 > [...]
 > From Latin cooptō (“to choose, elect”).
 
 According to [WordReference](https://www.wordreference.com/definition/cooptation), it's a close definition: 
-> 2. to assimilate, take, or win over into a larger or established group:
+> to assimilate, take, or win over into a larger or established group
 
 ## Money raises suspicion  
 
