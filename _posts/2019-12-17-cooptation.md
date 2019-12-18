@@ -13,7 +13,7 @@ title: "Does cooptation... :dolls:"
 
 ## Cooptation exists in most of IT companies
 
-I work in a [IT services company](https://www.apside.com/en/) (In french, "ESN" or "SSII", e.g.: Capgemini, IBM, Atos, Orange Business Services, HP, Sopra Steria...). I spend 99% of my time doing developer missions in one of our customer's premises.
+I work in an [IT services company](https://www.apside.com/en/) (In french, "ESN" or "SSII", e.g.: Capgemini, IBM, Atos, Orange Business Services, HP, Sopra Steria...). I spend 99% of my time doing developer missions in one of our customer's premises.
 
 In most of these companies, human resources people promote cooptation: they regularly ask you to find new employees/developers/talents/meat balls/engineers/talents to help the company to grow (and make more :moneybag: :moneybag: :moneybag:).
 
