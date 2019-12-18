@@ -13,7 +13,7 @@ I work in a IT services company (In french, "ESN" or "SSII", e.g.: Capgemini, IB
 
 In most of these companies, human resources people promote cooptation: they regularly ask you to find new employees/developers/talents/meat balls/engineers/talents to help the company to grow (and make more :moneybag: :moneybag: :moneybag:).
 
-[Definition time](https://www.youtube.com/watch?v=QYHxGBH6o4M)! 
+[Definition time](https://www.youtube.com/watch?v=otCpCn0l4Wo)! 
 
 Acccording to [Wiktionary](https://en.wiktionary.org/wiki/cooptation), a "cooptation" (others forms/synonyms : coöptation (`ö`... really? [Guess what!](https://en.wiktionary.org/wiki/Category:English_terms_spelled_with_%C3%96)), co-optation, co-opting, co-option) is:
 > 2. A co-opting: an absorption or assimilation
