@@ -33,4 +33,4 @@ I cannot stop thinking:
 - are you shamelessly recommending someone to get a bonus, no matter what the people you recommend be worth? 
 - does your company need to distribute bonuses to help recruiting? Isn't it supposed to be appealing without these artificial tricks?
 
-I guess I might be (too?) idealistic, I need to leave money out to believe in a true sincere recommendation for a job.
+I guess I might be (too?) idealistic, I need to leave money out to believe in a true sincere recommendation for a job, or anything in general.
