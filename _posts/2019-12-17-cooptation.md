@@ -6,6 +6,7 @@ title: "Does cooptation... :handshaking:"
 # {{page.title}} 
 
 ...[suxxx](https://www.youtube.com/watch?v=29RdAKFgXq0)?
+ 
 
 *This post is a genuine random software developer thought.*
 
