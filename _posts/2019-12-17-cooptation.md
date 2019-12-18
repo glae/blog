@@ -8,6 +8,7 @@ title: "Does cooptation... :handshaking:"
 ...[suxxx](https://www.youtube.com/watch?v=29RdAKFgXq0)?
  
 
+
 *This post is a genuine random software developer thought.*
 
 ## Cooptation exists in most of IT companies
