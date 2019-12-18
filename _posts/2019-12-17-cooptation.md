@@ -29,7 +29,7 @@ According to [WordReference](https://www.wordreference.com/definition/cooptation
 
 ## Money raises suspicion  
 
-When you persuade someone to join your company, that's fine, you can help someone to get a job. However, I think things are going messy when your employer give you some money rewarding a new recruitement. 
+When you persuade someone to join your company, that's fine, you can help someone to get a job. However, I think things are going messy when your employer gives you some money rewarding a new recruitement. 
 
 I cannot stop thinking:
 
