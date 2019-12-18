@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Cooptation... :moneybag:"
+title: "Does cooptation... :moneybag:"
 ---
 
-# {{page.title}}
+# {{page.title}} 
 
 ...[suxxx](https://www.youtube.com/watch?v=29RdAKFgXq0)?
 
