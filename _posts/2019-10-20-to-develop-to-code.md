@@ -25,7 +25,7 @@ For those who say:
 
 I would moderate this previous statement: they communicate, design, implement and bureaucrate.
 
-We see every year or semester, the "trendy top languages" news, like the famous [TIOBE index](https://www.tiobe.com/tiobe-index/). I have been introduced to programming since 17 years now (woah!). I found it could be fun to write my own programming languages (I exclude declarative ones) timeline usage. `X`, `Y` or `Z` languages do not seem to matter that much in the end. 
+As a developer, I try to change people's minds about this perception of a "task performer" and promote developers' more diverse skills set.
 
 <!--
 gantt 
@@ -56,8 +56,4 @@ Scala         :done, 2014-12,2019-07
 Objective C   :done, 2015-07,2017-12
 Swift         :done, 2016-01,2017-12
 -->
-
-![timeline](/blog/assets/2019-10-20-timeline.svg "timeline")
-
-This timeline was written with [Mermaid](https://mermaidjs.github.io/#/).
 
