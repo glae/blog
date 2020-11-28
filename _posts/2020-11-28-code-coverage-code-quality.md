@@ -27,7 +27,7 @@ What it really does:
 
 This is harmful. A virtuous circle could be to incite developers to write tests, to use linters, instead of forcing them to do so. 
 
-We cannot focus on everything. So we need to choose wisely which topics to focus on, and how to start working on them or improving them. Then we can find tools to help achieving the defined goals. 
+We cannot focus on everything. So we need to choose wisely which topics to focus on, and how to start working on them or improving them. Then we can find tools to help achieving the defined goals. Only humans can assess what can be improved, how to work on code quality in a specific context.
 
 Metrics can help ? Sure can use them. As the tools, they have to be guided by goals, not just for the sake of having figures.  
 
