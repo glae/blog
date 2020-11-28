@@ -17,13 +17,13 @@ It seems an obvious statement to me. But does it sound obvious to every tech peo
 
 ## Focus on what matters
 
-I used to work in companies where code quality and code coverage are seen as synonyms. CTO and architects define once and for all a gate limit (e.g. 80 %) in the company's code analysis tool (e.g. [SonarQube](https://www.sonarqube.org/), and some kind of linting rules. Projects have now to respect these constraints to be built or deployed. Then they think that projects' code quality is going to improve, thanks to these hardcore constraints. 
+I used to work in companies where code quality and code coverage are seen as synonyms. CTO and architects define once and for all a gate limit (e.g. 80 %) in the company's code analysis tool (e.g. [SonarQube](https://www.sonarqube.org/)), and some kind of linting rules. Projects have now to respect these constraints to be built or deployed. Then they think that projects' code quality is going to improve, thanks to these hardcore constraints. 
 
 What it really does:
 - it forces developers to reach this absurd limit
 - it infantilizes developers 
 - it does not promote writing high valued tests, but it creates a distrust climate, a "whatever makes this fucking code coverage/quality gate happy will be fine"
-- some developers are going to bypass or troll the quality gate, because of annoyance or project needs (users don't care about code coverage) 
+- some developers are going to bypass or troll the quality gate, because of annoyance or project needs (users don't care about code coverage, but they want new features or bugs to be fixed) 
 
 This is harmful. A virtuous circle could be to incite developers to write tests, to use linters, instead of forcing them to do so. 
 
