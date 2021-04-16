@@ -27,7 +27,7 @@ I would moderate this previous statement: they communicate, design, implement an
 
 As a developer, I try to change people's minds about this perception of a "task performer" and promote developers' more diverse skills set.
 
-
+<!--
 gantt 
 title Programming languages I can (in color) or could (in grey) write
 dateFormat  YYYY-MM
@@ -55,5 +55,5 @@ ActionScript  :done, 2009-07,2010-10
 Scala         :done, 2014-12,2019-07
 Objective C   :done, 2015-07,2017-12
 Swift         :done, 2016-01,2017-12
-
+-->
 
