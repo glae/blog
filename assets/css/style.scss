@@ -15,6 +15,6 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
-a { text-decoration: underline !important;}
+a:hover { text-decoration: underline !important;}
 
 @import "{{ site.theme }}";
