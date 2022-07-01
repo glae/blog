@@ -1,3 +1,4 @@
-# My dev blog with GitHub Pages
+## glae's random dev thoughts
+This is my raw blog. I'll mainly post about random software developer stuff.
 
 https://glae.github.io/blog/
