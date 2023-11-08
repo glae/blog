@@ -2,3 +2,5 @@
 This is my raw blog. I'll mainly post about random software developer stuff.
 
 https://glae.github.io/blog/
+
+The blog use Jekyll engine and GitHub pages : https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
