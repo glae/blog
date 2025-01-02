@@ -15,10 +15,10 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
-body {
-      font-family: "Helvetica Neue" !important, Helvetica, Arial, sans-serif;font-size:16px;line-height:1.5;color:#464f53;
-}
-
 a:hover { text-decoration: underline !important;}
 
 @import "{{ site.theme }}";
+
+body {
+font-family: "Helvetica Neue" !important, Helvetica, Arial, sans-serif;font-size:16px;line-height:1.5;color:#464f53;
+}
